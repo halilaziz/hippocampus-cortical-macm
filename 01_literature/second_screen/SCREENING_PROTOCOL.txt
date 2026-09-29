@@ -1,0 +1,34 @@
+TITLE/ABSTRACT SCREENING PROTOCOL — HIPPCON (hippocampal-cortical functional connectivity meta-analysis)
+
+Review question: What is the whole-brain / cortical functional connectivity (task-free, task-based, or meta-analytic co-activation) of the human hippocampus and its subregions in healthy adults?
+
+INCLUSION (all must plausibly hold, judged from title+abstract):
+ I1 Human participants.
+ I2 Healthy adult sample (18+; young, middle-aged, older healthy adults, or lifespan samples including adults), OR a healthy control group whose hippocampal connectivity is analysed/reported separately (only credit this if the abstract indicates HC within-group maps or a normative analysis; a patient-vs-control group-difference study is NOT enough -> exclude E5 but mark hc_potential=1).
+ I3 Hippocampus (whole, left/right, anterior/posterior, head/body/tail, subfields CA/DG/subiculum, or hippocampal gradient/parcel) used as SEED or ROI whose connectivity is analysed (not merely a region that shows up in the results of some other seed / network analysis).
+ I4 Connectivity reported with the whole brain or broadly with cortex (seed-to-voxel, seed-to-many cortical parcels, ICA/network assignment of hippocampal parcels, connectivity-based parcellation/gradients derived from hippocampus-to-cortex/whole-brain connectivity, meta-analytic co-activation maps). Pure ROI-to-ROI analyses restricted to a few non-cortical or very few regions (e.g., hippocampus-amygdala only, hippocampus-VTA only, hippocampus-mPFC single pair) -> exclude E9 (use "maybe" if unclear whether a whole-brain analysis is also reported).
+ I5 Method: fMRI (resting-state or task; BOLD) OR coordinate-based meta-analysis of fMRI/PET activation (MACM, ALE co-activation, BrainMap, Neurosynth) OR meta-analysis of hippocampal FC studies.
+
+EXCLUSION codes (use the first that applies):
+ E1 non-human / animal
+ E2 not fMRI (EEG/MEG/iEEG/DTI-only/PET-only/structural only)
+ E5 clinical, at-risk, genetic-risk, exposure or patient population is the focus (patients vs controls); set hc_potential=1 if a healthy control group with hippocampal-seed FC is present
+ E6 paediatric / adolescent-only sample
+ E7 hippocampus not a seed/ROI for connectivity (e.g., only activation, only volumetry, other seed, graph-theory without hippocampus-specific seed results, hippocampus only reported as result)
+ E8 review / opinion / commentary / methods-only paper without original hippocampal connectivity data (note: important narrative reviews may be flagged background=1)
+ E9 connectivity restricted to a small set of ROIs, not whole-brain/cortical
+ E10 primary outcome is an intervention / drug / stimulation / state-manipulation effect (sleep deprivation, stress induction, TMS, neurofeedback, drug) with no indication that the baseline healthy hippocampal whole-brain map is reported -> use "maybe" if baseline maps are plausibly reported
+ E11 other (explain)
+
+DECISIONS:
+ include = clearly meets I1-I5
+ maybe   = likely eligible but a criterion cannot be confirmed from the abstract (e.g., only brain-behaviour correlations reported, unclear whether whole-brain; ageing group-difference study in healthy adults; conference-level detail)
+ exclude = fails at least one criterion (give code)
+
+Note: Ageing studies in HEALTHY older adults are NOT clinical (not E5); include/maybe them. Individual-difference/brain-behaviour studies in healthy adults with hippocampal seed-to-whole-brain analyses = include (category rsfc/task) — they still provide hippocampal whole-brain FC in healthy adults; use maybe only if a main-effect connectivity map is unlikely.
+Preprints: screen the same way (they are handled at eligibility).
+
+CATEGORY for include/maybe: meta (coordinate-based meta-analysis / MACM / CBP using meta-analytic data / Neurosynth), rsfc (resting-state / intrinsic / naturalistic-free connectivity incl. gradients & parcellation from rsFC), task (PPI, gPPI, beta-series, background connectivity, task-state FC), mixed.
+
+OUTPUT: one JSON object per record (JSON Lines), keys:
+ record_id, decision (include|maybe|exclude), code (I or E1..E11), category (meta|rsfc|task|mixed|NA), reason (<=25 words, specific), population (e.g., "healthy young adults", "healthy older adults", "lifespan", "HCP", "patients+HC", "NA"), n (sample size from abstract or "NR"), seed (e.g., "whole hippocampus", "anterior/posterior", "head/body/tail", "subfields", "MTL", "NA"), cortical_targets (<=15 words, from abstract, or "NR"), hc_potential (0/1), background (0/1: important review/theory paper to cite as background)

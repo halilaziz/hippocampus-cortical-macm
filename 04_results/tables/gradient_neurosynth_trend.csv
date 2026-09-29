@@ -1,0 +1,8 @@
+network,rho_y_vs_meanz,p,rho_y_vs_deltaP,p_deltaP
+Default mode,0.886,0.0188,0.714,0.1108
+Dorsal attention,-0.6,0.208,-0.086,0.8717
+Frontoparietal control,0.086,0.8717,0.086,0.8717
+Limbic,1.0,0.0,0.943,0.0048
+Salience/ventral attention,-0.314,0.5441,0.314,0.5441
+Somatomotor,-0.143,0.7872,0.486,0.3287
+Visual,0.543,0.2657,-0.771,0.0724

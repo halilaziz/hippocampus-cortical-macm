@@ -1,0 +1,33 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-24.0,-16.0,-22.0,25.718862533569336,118248,L Hippocampus,
+1a,26.0,-16.0,-20.0,24.978713989257812,,R Hippocampus,
+1b,-30.0,-34.0,-10.0,8.545805931091309,,L Hippocampus,
+1c,30.0,-34.0,-16.0,8.103765487670898,,"R Parahippocampal Gyrus, posterior division",Visual
+2,-10.0,64.0,14.0,6.045541286468506,14400,L Frontal Pole,Default mode
+2a,-2.0,52.0,4.0,6.026440143585205,,L Paracingulate Gyrus,Default mode
+2b,-10.0,60.0,12.0,5.590688705444336,,L Frontal Pole,
+2c,-4.0,52.0,0.0,5.564346790313721,,L Paracingulate Gyrus,Default mode
+3,-16.0,40.0,38.0,5.890527725219727,3776,L Frontal Pole,
+3a,-28.0,28.0,44.0,4.976526737213135,,L Middle Frontal Gyrus,Default mode
+3b,-16.0,34.0,48.0,4.561567783355713,,L Superior Frontal Gyrus,Default mode
+4,-30.0,42.0,-14.0,5.69133186340332,2144,L Frontal Pole,Frontoparietal control
+4a,-34.0,32.0,-22.0,4.289172172546387,,L Frontal Orbital Cortex,
+4b,-34.0,50.0,-14.0,3.6381795406341553,,L Frontal Pole,Frontoparietal control
+5,64.0,-54.0,-10.0,5.443544864654541,1168,"R Middle Temporal Gyrus, temporooccipital part",Frontoparietal control
+5a,54.0,-58.0,-18.0,3.9215786457061768,,"R Inferior Temporal Gyrus, temporooccipital part",Dorsal attention
+6,42.0,-64.0,36.0,5.024200916290283,1352,"R Lateral Occipital Cortex, superior division",Default mode
+6a,54.0,-64.0,34.0,4.030361175537109,,"R Lateral Occipital Cortex, superior division",Default mode
+7,-50.0,-68.0,32.0,5.010734558105469,2928,"L Lateral Occipital Cortex, superior division",Default mode
+7a,-54.0,-58.0,24.0,4.605114936828613,,L Angular Gyrus,Default mode
+7b,-36.0,-72.0,30.0,3.8322978019714355,,"L Lateral Occipital Cortex, superior division",
+7c,-46.0,-72.0,40.0,3.5815746784210205,,"L Lateral Occipital Cortex, superior division",Default mode
+8,16.0,-38.0,50.0,4.590578556060791,168,R Postcentral Gyrus (nearest),Salience/ventral attention
+9,-30.0,-46.0,6.0,4.496128082275391,104,,
+10,-2.0,-56.0,-48.0,4.356943130493164,144,L Cerebellum,
+11,8.0,64.0,-20.0,4.274843215942383,264,R Frontal Pole,Limbic
+12,10.0,-44.0,-34.0,4.220433235168457,120,R Cerebellum,
+13,2.0,-60.0,-42.0,4.137094020843506,120,R Cerebellum,
+14,28.0,-86.0,-40.0,4.13518762588501,184,R Cerebellum,
+15,-36.0,60.0,-12.0,4.0271735191345215,96,L Frontal Pole,Frontoparietal control
+16,34.0,30.0,-20.0,3.8255655765533447,104,R Frontal Orbital Cortex,Default mode
+17,8.0,-52.0,-44.0,3.7383692264556885,176,R Cerebellum,

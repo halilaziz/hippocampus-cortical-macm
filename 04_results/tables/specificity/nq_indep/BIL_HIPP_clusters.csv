@@ -1,0 +1,22 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-28.0,-18.0,-18.0,19.382539749145508,115336,L Hippocampus,
+1a,26.0,-16.0,-18.0,19.2076358795166,,R Hippocampus,
+1b,-42.0,-4.0,-34.0,5.979321479797363,,"L Inferior Temporal Gyrus, anterior division (nearest)",
+1c,-42.0,6.0,-22.0,5.959774017333984,,L Temporal Pole,Salience/ventral attention
+2,-8.0,52.0,4.0,4.919867515563965,7856,L Paracingulate Gyrus,Default mode
+2a,-2.0,52.0,20.0,4.618802070617676,,L Paracingulate Gyrus,Default mode
+2b,-10.0,60.0,6.0,4.5828046798706055,,L Frontal Pole,Default mode
+2c,14.0,54.0,10.0,4.534562587738037,,R Paracingulate Gyrus (nearest),
+3,-50.0,-60.0,28.0,4.854132175445557,1192,L Angular Gyrus,Default mode
+4,-2.0,-22.0,38.0,4.602457046508789,408,"L Cingulate Gyrus, posterior division",Default mode
+5,-2.0,20.0,-10.0,4.591552257537842,944,L Subcallosal Cortex,Default mode
+5a,-6.0,30.0,-20.0,3.7102956771850586,,L Subcallosal Cortex,Limbic
+6,-14.0,34.0,38.0,4.4791083335876465,256,L Superior Frontal Gyrus (nearest),
+7,-30.0,38.0,-18.0,4.196503162384033,344,L Frontal Pole,Frontoparietal control
+8,8.0,30.0,10.0,4.1450958251953125,496,"R Cingulate Gyrus, anterior division (nearest)",Default mode
+8a,-6.0,26.0,14.0,4.072508335113525,,"L Cingulate Gyrus, anterior division (nearest)",
+8b,6.0,34.0,18.0,4.062581539154053,,"R Cingulate Gyrus, anterior division",Frontoparietal control
+8c,-2.0,24.0,12.0,3.96616792678833,,"L Cingulate Gyrus, anterior division (nearest)",
+9,-6.0,-58.0,-40.0,4.062403678894043,176,L Cerebellum,
+10,-10.0,38.0,6.0,4.0136613845825195,88,"L Cingulate Gyrus, anterior division (nearest)",
+11,-6.0,4.0,-10.0,3.980820894241333,272,L Accumbens (nearest),

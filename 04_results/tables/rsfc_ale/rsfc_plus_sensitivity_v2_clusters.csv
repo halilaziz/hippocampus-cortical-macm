@@ -1,0 +1,9 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network,ALE
+1,-28.0,-18.0,-16.0,0.029121581465005875,4224,L Hippocampus,,0.029121581465005875
+1a,-36.0,-10.0,-26.0,0.015535838901996613,,"L Temporal Fusiform Cortex, posterior division (nearest)",Limbic,0.015535838901996613
+1b,-16.0,-26.0,-10.0,0.01274130493402481,,"L Parahippocampal Gyrus, posterior division (nearest)",,0.01274130493402481
+1c,-26.0,-2.0,-22.0,0.011944047175347805,,L Amygdala,,0.011944047175347805
+2,-42.0,-70.0,32.0,0.02869008481502533,1088,"L Lateral Occipital Cortex, superior division",Default mode,0.02869008481502533
+3,46.0,-66.0,30.0,0.026219679042696953,1128,"R Lateral Occipital Cortex, superior division",Default mode,0.026219679042696953
+4,24.0,-18.0,-16.0,0.020520731806755066,2312,R Hippocampus,,0.020520731806755066
+5,-4.0,42.0,-12.0,0.01611001417040825,592,L Frontal Medial Cortex,Default mode,0.01611001417040825

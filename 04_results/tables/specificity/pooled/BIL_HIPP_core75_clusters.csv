@@ -1,0 +1,20 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-16.0,-20.0,32.80978012084961,316872,L Hippocampus,
+1a,26.0,-16.0,-20.0,31.824005126953125,,R Hippocampus,
+1b,-2.0,-52.0,16.0,8.85242748260498,,"L Cingulate Gyrus, posterior division",Default mode
+1c,-54.0,-6.0,-24.0,8.435888290405273,,"L Middle Temporal Gyrus, anterior division",Default mode
+2,-46.0,-70.0,32.0,6.805846691131592,7336,"L Lateral Occipital Cortex, superior division",Default mode
+2a,-52.0,-60.0,24.0,5.413346290588379,,L Angular Gyrus,Default mode
+2b,-44.0,-78.0,18.0,3.5977799892425537,,"L Lateral Occipital Cortex, superior division",Visual
+3,6.0,-52.0,-48.0,5.840738773345947,4680,R Cerebellum,
+3a,2.0,-64.0,-50.0,3.812288761138916,,R Cerebellum,
+4,44.0,-60.0,32.0,4.89561653137207,2368,"R Lateral Occipital Cortex, superior division",Default mode
+4a,42.0,-68.0,20.0,3.9740335941314697,,"R Lateral Occipital Cortex, superior division",Default mode
+4b,44.0,-56.0,24.0,3.657764196395874,,R Angular Gyrus,Default mode
+5,28.0,30.0,48.0,4.371281623840332,624,R Middle Frontal Gyrus,Default mode
+6,-8.0,6.0,16.0,4.206897735595703,392,L Caudate (nearest),
+7,24.0,38.0,44.0,3.899916887283325,168,R Frontal Pole,Default mode
+8,6.0,32.0,10.0,3.659564733505249,184,"R Cingulate Gyrus, anterior division",Default mode
+9,60.0,-56.0,-14.0,3.6586742401123047,192,"R Inferior Temporal Gyrus, temporooccipital part",Visual
+10,48.0,-54.0,-14.0,3.657111406326294,280,"R Inferior Temporal Gyrus, temporooccipital part",Dorsal attention
+11,4.0,-30.0,60.0,3.484342575073242,96,R Precentral Gyrus,Somatomotor

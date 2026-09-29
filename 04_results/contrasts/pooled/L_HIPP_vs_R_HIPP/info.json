@@ -1,0 +1,10 @@
+{
+ "db": "pooled",
+ "a": "L_HIPP",
+ "b": "R_HIPP",
+ "n_a": 991,
+ "n_b": 885,
+ "n_shared_excluded": 722,
+ "n_iters": 10000,
+ "seconds": 1956
+}

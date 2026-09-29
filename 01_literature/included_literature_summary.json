@@ -1,0 +1,36 @@
+{
+ "n_included_fulltext": 193,
+ "category": {
+  "rsfc": 99,
+  "task": 81,
+  "mixed": 12,
+  "meta": 1
+ },
+ "N_median": 34.5,
+ "N_IQR": [
+  20.0,
+  105.25
+ ],
+ "N_valid": 192,
+ "seed_subfields": 19,
+ "seed_longaxis": 90,
+ "coord_table_yes": 29,
+ "main_effect_map_yes": 64,
+ "years": {
+  "2000-2009": 14,
+  "2010-2014": 28,
+  "2015-2019": 60,
+  "2020-2026": 91
+ },
+ "analysis": {
+  "seed-based correlation": 126,
+  "PPI/gPPI": 53,
+  "beta-series": 15,
+  "ICA": 9,
+  "PLS": 17,
+  "gradient/connectopic": 11,
+  "MACM/meta-analytic": 6,
+  "effective/Granger": 5
+ },
+ "overlap_hcp": 15
+}

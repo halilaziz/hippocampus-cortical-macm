@@ -1,0 +1,23 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network,ALE
+1,-26.0,-18.0,-18.0,25.243330001831055,17216,L Hippocampus,,0.6197345852851868
+2,24.0,-10.0,-20.0,23.424209594726562,15928,R Hippocampus,,0.5875340104103088
+3,-32.0,20.0,0.0,12.925629615783691,4008,L Insular Cortex,Salience/ventral attention,0.3761790990829468
+4,34.0,20.0,0.0,12.67415714263916,4224,R Insular Cortex,Salience/ventral attention,0.37077414989471436
+5,-2.0,14.0,46.0,11.457107543945312,3080,L Paracingulate Gyrus,Salience/ventral attention,0.344452828168869
+6,8.0,-16.0,6.0,11.299283027648926,3472,R Thalamus,,0.3410370349884033
+6a,-10.0,-16.0,8.0,10.7293062210083,,L Thalamus,,0.3287059962749481
+7,-44.0,12.0,26.0,10.957884788513184,3424,"L Inferior Frontal Gyrus, pars opercularis",Frontoparietal control,0.33364003896713257
+7a,-46.0,30.0,14.0,7.69386100769043,,"L Inferior Frontal Gyrus, pars triangularis",Frontoparietal control,0.2634654641151428
+8,-4.0,-54.0,24.0,10.23031997680664,3888,"L Cingulate Gyrus, posterior division",Default mode,0.31793034076690674
+8a,0.0,-34.0,30.0,7.4144487380981445,,"R Cingulate Gyrus, posterior division",Default mode,0.2575426995754242
+9,-48.0,-66.0,28.0,9.356396675109863,1368,"L Lateral Occipital Cortex, superior division",Default mode,0.2990758419036865
+10,46.0,10.0,28.0,9.142034530639648,928,R Precentral Gyrus,Dorsal attention,0.29445716738700867
+11,-4.0,50.0,2.0,8.957314491271973,2536,L Paracingulate Gyrus,Default mode,0.29050809144973755
+11a,4.0,50.0,-8.0,6.941335678100586,,R Frontal Medial Cortex,Default mode,0.24753861129283905
+12,10.0,8.0,0.0,8.878758430480957,1584,R Caudate (nearest),,0.2888208329677582
+13,-42.0,-52.0,-16.0,8.745895385742188,984,L Temporal Occipital Fusiform Cortex,Dorsal attention,0.28594526648521423
+14,-14.0,6.0,2.0,8.245793342590332,1128,L Pallidum (nearest),,0.27526023983955383
+15,-4.0,50.0,28.0,7.357132911682129,168,L Superior Frontal Gyrus,Default mode,0.2563311755657196
+16,-2.0,-24.0,38.0,7.312076568603516,192,"L Cingulate Gyrus, posterior division",Default mode,0.25536754727363586
+17,40.0,-52.0,-16.0,7.007731914520264,80,R Temporal Occipital Fusiform Cortex,Visual,0.24893899261951447
+18,-36.0,34.0,-12.0,6.756324768066406,96,L Frontal Orbital Cortex,Default mode,0.2436676174402237

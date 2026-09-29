@@ -1,0 +1,19 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,26.0,-14.0,-22.0,35.628013610839844,232976,R Hippocampus,
+1a,-26.0,-14.0,-20.0,18.868783950805664,,L Hippocampus,
+1b,56.0,-8.0,-20.0,9.364445686340332,,"R Middle Temporal Gyrus, posterior division",Default mode
+1c,-56.0,-14.0,-20.0,7.972643852233887,,"L Middle Temporal Gyrus, posterior division",Default mode
+2,52.0,-64.0,22.0,6.0619659423828125,4840,"R Lateral Occipital Cortex, superior division",Default mode
+2a,54.0,-56.0,36.0,3.5878090858459473,,R Angular Gyrus,Frontoparietal control
+3,-46.0,-68.0,30.0,5.428980350494385,3984,"L Lateral Occipital Cortex, superior division",Default mode
+3a,-42.0,-60.0,20.0,3.654212713241577,,L Angular Gyrus,Default mode
+4,34.0,34.0,-18.0,5.34785795211792,2232,R Frontal Pole,Default mode
+4a,24.0,38.0,-10.0,3.5236740112304688,,R Frontal Pole,
+5,-16.0,38.0,44.0,5.158663749694824,2848,L Superior Frontal Gyrus,Default mode
+5a,-20.0,26.0,48.0,3.563690185546875,,L Superior Frontal Gyrus,Default mode
+6,44.0,-82.0,-8.0,4.114706993103027,200,"R Lateral Occipital Cortex, inferior division",Visual
+7,56.0,36.0,4.0,4.06988525390625,520,R Frontal Pole,Frontoparietal control
+8,10.0,-22.0,42.0,3.8116612434387207,160,"R Cingulate Gyrus, posterior division",Salience/ventral attention
+9,20.0,-58.0,-6.0,3.7602014541625977,296,R Lingual Gyrus,Visual
+10,10.0,-46.0,-48.0,3.727370023727417,120,R Cerebellum,
+11,14.0,-76.0,-6.0,3.551710605621338,104,R Lingual Gyrus,Visual

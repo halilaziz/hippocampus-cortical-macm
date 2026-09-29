@@ -1,0 +1,7 @@
+analysis,n_experiments,matched_component,r_with_pooled_G1,r_G1_longaxis
+pooled_K150_half2,2467,G1,0.911,0.932
+pooled_K300,4934,G1,0.925,0.961
+pooled_K75,4934,G1,0.902,0.712
+nq_indep_K100,1291,G1,0.849,0.958
+pooled_K150_half1,2467,G1,0.889,0.961
+neurosynth_K150,3643,G1,0.953,0.878

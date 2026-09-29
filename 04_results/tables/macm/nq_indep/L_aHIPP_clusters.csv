@@ -1,0 +1,13 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network,ALE
+1,-26.0,-16.0,-20.0,27.408763885498047,11960,L Hippocampus,,0.5464691519737244
+2,24.0,-10.0,-20.0,15.94273853302002,9824,R Hippocampus,,0.3325982987880707
+3,10.0,-16.0,6.0,8.163698196411133,568,R Thalamus,,0.18178559839725494
+4,-10.0,-16.0,8.0,8.010172843933105,1048,L Thalamus,,0.17897623777389526
+5,-46.0,12.0,24.0,7.8611650466918945,1368,"L Inferior Frontal Gyrus, pars opercularis",Frontoparietal control,0.17623329162597656
+6,-32.0,22.0,-2.0,7.277952194213867,800,L Insular Cortex,Salience/ventral attention,0.16562384366989136
+7,-44.0,-52.0,-18.0,7.246521472930908,488,"L Inferior Temporal Gyrus, temporooccipital part",Dorsal attention,0.16505682468414307
+8,34.0,26.0,-8.0,7.2349042892456055,1072,R Frontal Orbital Cortex,Frontoparietal control,0.16484874486923218
+9,-4.0,-54.0,24.0,7.214199542999268,1120,"L Cingulate Gyrus, posterior division",Default mode,0.16447047889232635
+10,2.0,40.0,0.0,7.10141658782959,464,"R Cingulate Gyrus, anterior division",Default mode,0.16246065497398376
+11,-48.0,-64.0,26.0,6.6473798751831055,208,"L Lateral Occipital Cortex, superior division",Default mode,0.15435810387134552
+12,-2.0,16.0,46.0,6.476445198059082,136,L Paracingulate Gyrus,Salience/ventral attention,0.15132993459701538

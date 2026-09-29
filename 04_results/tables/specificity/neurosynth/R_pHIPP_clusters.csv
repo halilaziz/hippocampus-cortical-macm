@@ -1,0 +1,17 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,30.0,-28.0,-10.0,24.470935821533203,42560,R Hippocampus,
+1a,30.0,-10.0,-26.0,7.5056328773498535,,R Hippocampus,
+1b,18.0,-46.0,8.0,5.953848361968994,,"R Cingulate Gyrus, posterior division (nearest)",
+1c,22.0,-52.0,-2.0,5.446035861968994,,R Lingual Gyrus,Visual
+2,-26.0,-26.0,-12.0,11.72402286529541,35000,L Hippocampus,
+2a,-28.0,-14.0,-18.0,9.627015113830566,,L Hippocampus,
+2b,-18.0,-42.0,4.0,7.035958290100098,,L Hippocampus (nearest),
+2c,-26.0,-54.0,-2.0,4.514559745788574,,L Lingual Gyrus,Visual
+3,-38.0,10.0,-18.0,5.125059127807617,776,L Temporal Pole (nearest),
+4,6.0,60.0,2.0,5.0615644454956055,1032,R Frontal Pole,Default mode
+4a,-2.0,56.0,12.0,4.098771572113037,,L Paracingulate Gyrus,Default mode
+5,-4.0,-12.0,6.0,4.364338397979736,144,L Thalamus,
+6,-12.0,-66.0,28.0,4.137955665588379,88,L Precuneous Cortex,Default mode
+7,60.0,-10.0,-22.0,4.073082447052002,104,"R Middle Temporal Gyrus, posterior division",Default mode
+8,34.0,0.0,20.0,3.9983041286468506,176,R Central Opercular Cortex (nearest),
+9,38.0,10.0,-20.0,3.92016863822937,136,R Temporal Pole,Salience/ventral attention

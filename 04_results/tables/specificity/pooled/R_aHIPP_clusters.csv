@@ -1,0 +1,26 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,26.0,-14.0,-20.0,41.39590072631836,271584,R Hippocampus,
+1a,-26.0,-14.0,-20.0,21.621204376220703,,L Hippocampus,
+1b,-28.0,-34.0,-12.0,12.327549934387207,,"L Parahippocampal Gyrus, posterior division (nearest)",
+1c,54.0,-8.0,-24.0,9.704109191894531,,"R Middle Temporal Gyrus, posterior division (nearest)",Default mode
+2,54.0,-68.0,30.0,6.033662796020508,5464,"R Lateral Occipital Cortex, superior division",Dorsal attention
+2a,48.0,-56.0,26.0,5.244463920593262,,R Angular Gyrus,Default mode
+2b,48.0,-70.0,22.0,5.21468448638916,,"R Lateral Occipital Cortex, superior division",Dorsal attention
+2c,52.0,-56.0,14.0,4.024628639221191,,R Angular Gyrus,Dorsal attention
+3,-44.0,-74.0,26.0,5.120727062225342,3680,"L Lateral Occipital Cortex, superior division",Default mode
+3a,-56.0,-68.0,26.0,4.703240394592285,,"L Lateral Occipital Cortex, superior division",Default mode
+3b,-44.0,-68.0,22.0,4.576523780822754,,"L Lateral Occipital Cortex, superior division",Dorsal attention
+3c,-44.0,-80.0,32.0,3.472285032272339,,"L Lateral Occipital Cortex, superior division",Default mode
+4,0.0,-52.0,-50.0,5.063295841217041,3496,R Cerebellum,
+4a,12.0,-50.0,-48.0,4.473341941833496,,R Cerebellum,
+4b,2.0,-54.0,-38.0,3.934898853302002,,R Cerebellum,
+4c,10.0,-42.0,-46.0,3.3545587062835693,,R Cerebellum,
+5,-8.0,-16.0,36.0,4.778975486755371,728,"L Cingulate Gyrus, posterior division (nearest)",Salience/ventral attention
+5a,4.0,-16.0,42.0,3.8553876876831055,,"R Cingulate Gyrus, posterior division",Default mode
+6,26.0,26.0,44.0,4.205674648284912,352,R Middle Frontal Gyrus,Default mode
+7,64.0,-36.0,-12.0,3.98671555519104,496,"R Middle Temporal Gyrus, posterior division",Frontoparietal control
+8,20.0,-60.0,20.0,3.968881607055664,160,R Precuneous Cortex,Default mode
+9,-46.0,-48.0,-24.0,3.8063931465148926,88,"L Inferior Temporal Gyrus, temporooccipital part",Dorsal attention
+10,56.0,30.0,10.0,3.7895455360412598,200,"R Inferior Frontal Gyrus, pars triangularis",Default mode
+11,18.0,-68.0,-6.0,3.762281656265259,176,R Lingual Gyrus,Visual
+12,22.0,-62.0,14.0,3.6531524658203125,104,R Supracalcarine Cortex,Visual

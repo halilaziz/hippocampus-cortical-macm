@@ -1,0 +1,28 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-16.0,-20.0,32.786766052246094,377312,L Hippocampus,
+1a,24.0,-14.0,-20.0,31.611827850341797,,R Hippocampus,
+1b,56.0,-2.0,-22.0,10.209012985229492,,"R Middle Temporal Gyrus, anterior division",Default mode
+1c,-2.0,-52.0,16.0,9.753711700439453,,"L Cingulate Gyrus, posterior division",Default mode
+2,-46.0,-70.0,34.0,6.064966201782227,7848,"L Lateral Occipital Cortex, superior division",Default mode
+2a,-52.0,-74.0,22.0,5.497591972351074,,"L Lateral Occipital Cortex, superior division",Dorsal attention
+2b,-48.0,-60.0,22.0,5.084046840667725,,L Angular Gyrus,Default mode
+2c,-40.0,-80.0,30.0,4.676163196563721,,"L Lateral Occipital Cortex, superior division",Default mode
+3,44.0,-66.0,28.0,5.098191261291504,3560,"R Lateral Occipital Cortex, superior division",Default mode
+4,4.0,-16.0,42.0,4.783583164215088,1032,"R Cingulate Gyrus, posterior division",Default mode
+4a,-2.0,-6.0,34.0,3.5964725017547607,,"L Cingulate Gyrus, anterior division",Default mode
+5,58.0,34.0,6.0,4.705490589141846,720,"R Inferior Frontal Gyrus, pars triangularis (nearest)",Default mode
+6,26.0,32.0,44.0,4.677636623382568,3256,R Middle Frontal Gyrus,Default mode
+6a,12.0,44.0,42.0,4.179609298706055,,R Frontal Pole,
+6b,24.0,28.0,54.0,3.904904842376709,,R Superior Frontal Gyrus,Default mode
+6c,16.0,48.0,44.0,3.9036991596221924,,R Frontal Pole,Default mode
+7,-8.0,-54.0,-48.0,4.6276960372924805,3128,L Cerebellum,
+7a,2.0,-48.0,-40.0,4.373497486114502,,R Cerebellum,
+7b,-12.0,-50.0,-42.0,3.9763689041137695,,L Cerebellum,
+7c,10.0,-38.0,-46.0,3.859964609146118,,R Cerebellum,
+8,26.0,-82.0,-34.0,4.441125869750977,1040,R Cerebellum,
+9,-58.0,-38.0,-14.0,3.9675443172454834,240,"L Middle Temporal Gyrus, posterior division",Default mode
+10,-26.0,58.0,-14.0,3.9252967834472656,120,L Frontal Pole,Frontoparietal control
+11,2.0,-88.0,24.0,3.832280397415161,176,R Cuneal Cortex,Visual
+12,14.0,36.0,54.0,3.6974029541015625,176,R Superior Frontal Gyrus,Default mode
+13,-14.0,10.0,24.0,3.664348602294922,152,L Caudate (nearest),
+14,-12.0,16.0,14.0,3.4651260375976562,80,L Caudate (nearest),

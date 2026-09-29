@@ -1,0 +1,4 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-28.0,-30.0,-2.0,3.890591859817505,10104,L Hippocampus (nearest),
+1a,-12.0,-46.0,8.0,3.890591859817505,,"L Cingulate Gyrus, posterior division (nearest)",Visual
+2,26.0,-34.0,-12.0,3.890591859817505,8000,"R Parahippocampal Gyrus, posterior division",Visual

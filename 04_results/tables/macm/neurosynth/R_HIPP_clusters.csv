@@ -1,0 +1,28 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network,ALE
+1,26.0,-14.0,-20.0,38.4674072265625,27184,R Hippocampus,,0.9104272127151489
+1a,12.0,10.0,2.0,10.384177207946777,,R Caudate (nearest),,0.41534242033958435
+1b,40.0,-48.0,-20.0,10.294901847839355,,R Temporal Occipital Fusiform Cortex,Visual,0.41332581639289856
+2,-22.0,-8.0,-18.0,32.83283996582031,24080,L Amygdala,,0.8078144788742065
+2a,-42.0,-50.0,-18.0,12.00114917755127,,L Temporal Occipital Fusiform Cortex,Dorsal attention,0.4512696862220764
+2b,-10.0,10.0,-2.0,10.103249549865723,,L Caudate,,0.40903162956237793
+2c,-22.0,4.0,2.0,8.272671699523926,,L Putamen,,0.36767658591270447
+3,-32.0,22.0,-2.0,21.626399993896484,6760,L Insular Cortex,Salience/ventral attention,0.643978476524353
+4,34.0,22.0,-4.0,20.816652297973633,5984,R Insular Cortex,Frontoparietal control,0.6295213103294373
+5,-2.0,14.0,48.0,15.505704879760742,6744,L Paracingulate Gyrus,Salience/ventral attention,0.5262927412986755
+6,-4.0,-52.0,26.0,14.688497543334961,6576,"L Cingulate Gyrus, posterior division",Default mode,0.5092346668243408
+7,-46.0,6.0,30.0,13.362359046936035,4680,L Precentral Gyrus,Dorsal attention,0.4809381365776062
+8,46.0,8.0,30.0,13.205437660217285,2328,R Precentral Gyrus,Dorsal attention,0.47755247354507446
+9,-10.0,-16.0,6.0,12.571640968322754,1936,L Thalamus,,0.46377721428871155
+10,-58.0,-10.0,-18.0,11.973268508911133,1272,"L Middle Temporal Gyrus, anterior division",Default mode,0.45064371824264526
+11,-2.0,52.0,-8.0,11.944602012634277,4608,L Frontal Medial Cortex,Default mode,0.45000067353248596
+11a,2.0,56.0,6.0,8.877723693847656,,R Paracingulate Gyrus,Default mode,0.3813886046409607
+12,8.0,-16.0,6.0,11.897964477539062,1496,R Thalamus,,0.4489845335483551
+13,-46.0,-68.0,30.0,11.833479881286621,2264,"L Lateral Occipital Cortex, superior division",Default mode,0.4475463032722473
+14,58.0,-8.0,-18.0,11.653997421264648,1488,"R Middle Temporal Gyrus, posterior division",Default mode,0.4435988962650299
+15,42.0,-48.0,46.0,10.12861442565918,728,R Angular Gyrus,Frontoparietal control,0.40959790349006653
+16,-32.0,-56.0,44.0,9.980537414550781,1992,L Superior Parietal Lobule,Frontoparietal control,0.40626826882362366
+17,50.0,-64.0,26.0,9.050331115722656,656,"R Lateral Occipital Cortex, superior division",Default mode,0.38531455397605896
+18,30.0,-56.0,48.0,8.719426155090332,208,R Superior Parietal Lobule,Dorsal attention,0.37780922651290894
+19,48.0,34.0,18.0,8.017245292663574,184,"R Inferior Frontal Gyrus, pars triangularis",Frontoparietal control,0.3618896007537842
+20,-8.0,56.0,28.0,8.008999824523926,136,L Frontal Pole (nearest),Default mode,0.36169931292533875
+21,-56.0,-34.0,0.0,7.8114495277404785,88,"L Superior Temporal Gyrus, posterior division",Default mode,0.35720884799957275

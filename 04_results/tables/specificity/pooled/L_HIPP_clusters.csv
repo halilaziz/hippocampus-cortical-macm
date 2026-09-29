@@ -1,0 +1,25 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-18.0,-18.0,38.561553955078125,334080,L Hippocampus,
+1a,24.0,-14.0,-20.0,21.869443893432617,,R Hippocampus,
+1b,-18.0,-40.0,8.0,9.49619197845459,,L Hippocampus (nearest),
+1c,-8.0,-52.0,16.0,9.17435359954834,,L Precuneous Cortex,Default mode
+2,-50.0,-66.0,32.0,7.710361003875732,7456,"L Lateral Occipital Cortex, superior division",Default mode
+2a,-46.0,-56.0,16.0,4.017360210418701,,L Angular Gyrus,Salience/ventral attention
+3,0.0,-50.0,-46.0,5.151187419891357,4144,R Cerebellum,
+3a,-4.0,-48.0,-34.0,3.888383626937866,,L Cerebellum,
+3b,-8.0,-50.0,-50.0,3.7607614994049072,,L Cerebellum,
+3c,0.0,-60.0,-38.0,3.654542922973633,,R Cerebellum,
+4,4.0,-30.0,60.0,4.68203592300415,472,R Precentral Gyrus,Somatomotor
+5,-4.0,-18.0,38.0,4.552541732788086,1048,"L Cingulate Gyrus, posterior division",Default mode
+6,10.0,50.0,38.0,4.384222984313965,888,R Frontal Pole,Default mode
+6a,20.0,44.0,44.0,4.2881622314453125,,R Frontal Pole,Default mode
+6b,26.0,32.0,48.0,3.741851568222046,,R Middle Frontal Gyrus,Default mode
+6c,16.0,40.0,38.0,3.7336204051971436,,R Frontal Pole (nearest),
+7,-10.0,-98.0,6.0,3.9879376888275146,592,L Occipital Pole,Visual
+8,-8.0,-86.0,30.0,3.9349594116210938,160,L Cuneal Cortex,Visual
+9,-14.0,4.0,28.0,3.848980188369751,192,L Caudate (nearest),
+10,26.0,-78.0,-42.0,3.8418781757354736,184,R Cerebellum,
+11,18.0,-78.0,2.0,3.798044443130493,168,R Intracalcarine Cortex (nearest),
+12,-12.0,-62.0,-4.0,3.6969268321990967,144,L Lingual Gyrus,Visual
+13,4.0,-86.0,20.0,3.554508686065674,176,R Cuneal Cortex,Visual
+14,46.0,-56.0,26.0,3.481904983520508,288,R Angular Gyrus,Default mode

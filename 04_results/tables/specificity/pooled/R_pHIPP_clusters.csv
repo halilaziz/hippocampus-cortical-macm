@@ -1,0 +1,20 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,30.0,-28.0,-10.0,28.22587013244629,75344,R Hippocampus,
+1a,-26.0,-26.0,-12.0,12.780858039855957,,L Hippocampus,
+1b,22.0,-6.0,-20.0,8.07175064086914,,R Amygdala,
+1c,12.0,-32.0,16.0,5.217324256896973,,R Thalamus (nearest),
+2,-40.0,10.0,-20.0,5.5158514976501465,1128,L Temporal Pole,Salience/ventral attention
+3,-10.0,48.0,6.0,4.935248851776123,944,L Paracingulate Gyrus,Default mode
+3a,-2.0,62.0,10.0,3.934964895248413,,L Frontal Pole,Default mode
+4,-10.0,-18.0,32.0,4.904748916625977,368,"L Cingulate Gyrus, posterior division (nearest)",
+4a,0.0,-8.0,30.0,4.538314342498779,,"R Cingulate Gyrus, anterior division",Default mode
+4b,-12.0,-14.0,34.0,4.423373699188232,,"L Cingulate Gyrus, posterior division (nearest)",
+5,8.0,-58.0,16.0,4.573113441467285,832,R Precuneous Cortex,Default mode
+5a,-2.0,-58.0,26.0,3.6173670291900635,,L Precuneous Cortex,Default mode
+6,-14.0,-64.0,28.0,4.223606109619141,104,L Precuneous Cortex,Default mode
+7,38.0,-8.0,8.0,4.220680236816406,328,R Insular Cortex,Somatomotor
+8,20.0,-18.0,20.0,4.204070568084717,168,R Caudate (nearest),
+9,6.0,-28.0,14.0,4.197264194488525,96,R Thalamus (nearest),
+10,6.0,42.0,6.0,4.176210880279541,112,"R Cingulate Gyrus, anterior division",Default mode
+11,2.0,-26.0,56.0,4.150997638702393,160,R Precentral Gyrus,
+12,50.0,-10.0,-20.0,3.9613401889801025,144,"R Middle Temporal Gyrus, posterior division",

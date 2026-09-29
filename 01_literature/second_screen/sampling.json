@@ -1,0 +1,17 @@
+{
+ "n_total": 1892,
+ "n_manual": 1485,
+ "n_rule_sample": 407,
+ "rule_sample_by_code": {
+  "E5": 309,
+  "E1": 41,
+  "E8": 23,
+  "E6": 15,
+  "E4": 8,
+  "E2": 7,
+  "E0": 2,
+  "E3": 1,
+  "E9": 1
+ },
+ "random_state": 2026
+}

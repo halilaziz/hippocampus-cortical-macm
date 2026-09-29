@@ -1,0 +1,9 @@
+{
+ "db": "pooled",
+ "seed": "R_HIPP",
+ "n_experiments": 1607,
+ "n_foci": 98273,
+ "n_iters": 1000,
+ "sample_size": 20,
+ "seconds": 376.7
+}

@@ -1,0 +1,20 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-14.0,-22.0,20.361207962036133,26336,L Hippocampus,
+1a,-46.0,4.0,-22.0,5.317770957946777,,L Temporal Pole (nearest),Default mode
+1b,-44.0,12.0,-32.0,4.821930885314941,,L Temporal Pole,Limbic
+1c,-32.0,12.0,-40.0,4.707843780517578,,L Temporal Pole,Limbic
+2,26.0,-16.0,-20.0,10.245294570922852,21200,R Hippocampus,
+2a,16.0,0.0,-22.0,5.710402488708496,,"R Parahippocampal Gyrus, anterior division",
+2b,44.0,-2.0,-36.0,4.6029744148254395,,"R Inferior Temporal Gyrus, anterior division",Limbic
+2c,38.0,-36.0,-22.0,4.511123180389404,,"R Temporal Fusiform Cortex, posterior division",Visual
+3,-4.0,-42.0,14.0,5.1963090896606445,1312,"L Cingulate Gyrus, posterior division",
+4,0.0,34.0,-8.0,4.929202556610107,1792,"R Cingulate Gyrus, anterior division",Default mode
+4a,6.0,14.0,-18.0,4.248899459838867,,R Subcallosal Cortex,Limbic
+4b,2.0,40.0,-4.0,4.207493305206299,,"R Cingulate Gyrus, anterior division",Default mode
+4c,-2.0,28.0,-18.0,4.08587121963501,,L Subcallosal Cortex,Limbic
+5,-4.0,40.0,30.0,4.87121057510376,432,L Paracingulate Gyrus,Default mode
+6,48.0,4.0,-24.0,4.621856212615967,352,R Temporal Pole (nearest),Default mode
+7,-62.0,-12.0,-16.0,4.44162654876709,184,"L Middle Temporal Gyrus, posterior division",Default mode
+8,-20.0,32.0,48.0,4.20848274230957,216,L Superior Frontal Gyrus,Default mode
+9,-10.0,60.0,-4.0,4.102349281311035,104,L Frontal Pole,
+10,-60.0,-24.0,-10.0,3.995011806488037,192,"L Middle Temporal Gyrus, posterior division",Default mode

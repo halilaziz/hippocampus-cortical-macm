@@ -1,0 +1,16 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-16.0,-22.0,22.642366409301758,88928,L Hippocampus,
+1a,26.0,-16.0,-20.0,21.99734115600586,,R Hippocampus,
+1b,-30.0,-34.0,-10.0,8.687361717224121,,L Hippocampus,
+1c,30.0,-34.0,-18.0,7.486353397369385,,"R Temporal Fusiform Cortex, posterior division",Visual
+2,-2.0,52.0,2.0,5.666774272918701,4808,L Paracingulate Gyrus,Default mode
+2a,-4.0,60.0,12.0,5.145443439483643,,L Frontal Pole,Default mode
+2b,-10.0,60.0,-6.0,4.626737117767334,,L Frontal Pole,
+2c,-4.0,48.0,-4.0,4.565881252288818,,L Paracingulate Gyrus,Default mode
+3,-16.0,36.0,40.0,4.829345226287842,768,L Superior Frontal Gyrus (nearest),Default mode
+4,48.0,-56.0,26.0,4.523604869842529,456,R Angular Gyrus,Default mode
+5,-16.0,8.0,-20.0,4.434304714202881,144,L Frontal Orbital Cortex,Limbic
+6,-32.0,36.0,-16.0,4.364390850067139,560,L Frontal Orbital Cortex,Default mode
+7,-6.0,56.0,22.0,4.177108287811279,168,L Superior Frontal Gyrus,Default mode
+8,58.0,-50.0,-10.0,3.9087350368499756,80,"R Middle Temporal Gyrus, temporooccipital part",Dorsal attention
+9,26.0,-80.0,-40.0,3.719048261642456,80,R Cerebellum,

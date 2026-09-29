@@ -1,0 +1,27 @@
+{
+ "n_compared": 1892,
+ "all": {
+  "n": 1892,
+  "pct_agreement_binary": 97.0,
+  "kappa_binary": 0.885,
+  "kappa_3class": 0.832,
+  "first_forward_second_exclude": 35,
+  "first_exclude_second_forward": 21
+ },
+ "abstract-read": {
+  "n": 1485,
+  "pct_agreement_binary": 96.7,
+  "kappa_binary": 0.893,
+  "kappa_3class": 0.839,
+  "first_forward_second_exclude": 35,
+  "first_exclude_second_forward": 14
+ },
+ "rule-excluded sample": {
+  "n": 407,
+  "pct_agreement_binary": 98.3,
+  "kappa_binary": 0.0,
+  "first_forward_second_exclude": 0,
+  "first_exclude_second_forward": 7
+ },
+ "n_disagreements": 56
+}

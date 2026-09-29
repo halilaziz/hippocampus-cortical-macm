@@ -1,0 +1,24 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-18.0,-18.0,32.703025817871094,285176,L Hippocampus,
+1a,24.0,-14.0,-20.0,19.77894401550293,,R Hippocampus,
+1b,28.0,-30.0,-12.0,13.501540184020996,,R Hippocampus,
+1c,54.0,-2.0,-24.0,8.943344116210938,,"R Middle Temporal Gyrus, anterior division",Default mode
+2,34.0,36.0,-16.0,6.139186859130859,4088,R Frontal Pole,Default mode
+2a,24.0,32.0,-10.0,4.361283302307129,,R Frontal Orbital Cortex (nearest),Default mode
+2b,32.0,20.0,-20.0,3.610060930252075,,R Frontal Orbital Cortex,Default mode
+3,-46.0,-66.0,28.0,5.528629302978516,2960,"L Lateral Occipital Cortex, superior division",Default mode
+4,-28.0,-82.0,-26.0,4.79758358001709,624,L Occipital Fusiform Gyrus (nearest),
+5,44.0,-62.0,22.0,4.630181312561035,592,"R Lateral Occipital Cortex, superior division",Default mode
+6,12.0,44.0,38.0,4.4422078132629395,240,R Frontal Pole (nearest),
+7,-16.0,-42.0,60.0,4.159641742706299,136,L Postcentral Gyrus,
+8,10.0,-38.0,38.0,4.109076023101807,440,"R Cingulate Gyrus, posterior division",Default mode
+9,-4.0,-28.0,30.0,4.055141925811768,424,"L Cingulate Gyrus, posterior division",Frontoparietal control
+10,-12.0,-48.0,-38.0,3.991206169128418,936,L Cerebellum,
+10a,-2.0,-52.0,-46.0,3.5434000492095947,,L Cerebellum,
+10b,-12.0,-42.0,-48.0,3.5375866889953613,,L Cerebellum,
+10c,-4.0,-48.0,-40.0,3.492305278778076,,L Cerebellum,
+11,-4.0,-18.0,38.0,3.937258005142212,104,"L Cingulate Gyrus, posterior division",Default mode
+12,-6.0,-86.0,26.0,3.8996427059173584,408,L Cuneal Cortex,Visual
+13,-10.0,0.0,24.0,3.896071672439575,160,L Caudate (nearest),
+14,-6.0,-8.0,36.0,3.5692741870880127,160,"L Cingulate Gyrus, anterior division (nearest)",Default mode
+15,40.0,-10.0,18.0,3.503115653991699,96,R Central Opercular Cortex,Somatomotor

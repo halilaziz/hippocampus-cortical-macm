@@ -1,0 +1,6 @@
+02_data/
+.venv/
+__pycache__/
+*.npz
+04_results/gingerale/MNI_wb.nii
+.DS_Store

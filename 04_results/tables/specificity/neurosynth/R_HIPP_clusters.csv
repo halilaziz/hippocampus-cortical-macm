@@ -1,0 +1,25 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,26.0,-16.0,-20.0,32.168373107910156,244504,R Hippocampus,
+1a,-26.0,-16.0,-20.0,19.525959014892578,,L Hippocampus,
+1b,-28.0,-34.0,-10.0,14.242072105407715,,L Hippocampus,
+1c,60.0,-12.0,-20.0,8.096348762512207,,"R Middle Temporal Gyrus, posterior division",Default mode
+2,-18.0,32.0,44.0,6.063941955566406,5280,L Superior Frontal Gyrus,Default mode
+3,-32.0,38.0,-10.0,5.420393943786621,3848,L Frontal Pole,Default mode
+3a,-42.0,36.0,-18.0,4.3651556968688965,,L Frontal Orbital Cortex,Default mode
+3b,-24.0,30.0,-12.0,4.258512496948242,,L Frontal Orbital Cortex,Limbic
+3c,-30.0,46.0,-6.0,3.93437123298645,,L Frontal Pole (nearest),
+4,28.0,38.0,-10.0,5.408262252807617,2376,R Frontal Pole,Default mode
+4a,40.0,36.0,-14.0,3.967721700668335,,R Frontal Pole,Default mode
+5,-46.0,-70.0,32.0,5.227451801300049,2424,"L Lateral Occipital Cortex, superior division",Default mode
+5a,-52.0,-74.0,22.0,4.191333293914795,,"L Lateral Occipital Cortex, superior division",Dorsal attention
+5b,-40.0,-68.0,28.0,3.9340429306030273,,"L Lateral Occipital Cortex, superior division",Default mode
+6,44.0,-66.0,24.0,4.878768444061279,2432,"R Lateral Occipital Cortex, superior division",Default mode
+7,4.0,-46.0,-52.0,4.869752407073975,1184,R Cerebellum,
+8,58.0,34.0,6.0,4.29921293258667,544,"R Inferior Frontal Gyrus, pars triangularis (nearest)",Default mode
+9,10.0,-34.0,38.0,4.092988967895508,104,"R Cingulate Gyrus, posterior division",Default mode
+10,16.0,44.0,10.0,4.091549396514893,224,"R Cingulate Gyrus, anterior division (nearest)",Default mode
+11,12.0,46.0,36.0,4.02776575088501,80,R Frontal Pole,
+12,60.0,-46.0,-14.0,3.9531822204589844,152,"R Inferior Temporal Gyrus, temporooccipital part",Frontoparietal control
+13,-18.0,-2.0,24.0,3.735762357711792,120,L Caudate (nearest),
+14,56.0,-44.0,-2.0,3.515486240386963,136,"R Middle Temporal Gyrus, temporooccipital part (nearest)",
+15,40.0,-6.0,10.0,3.417123794555664,80,R Insular Cortex,Salience/ventral attention

@@ -1,0 +1,15 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network,ALE
+1,-44.0,-70.0,34.0,0.060096342116594315,1976,"L Lateral Occipital Cortex, superior division",Default mode,0.060096342116594315
+2,-24.0,-16.0,-18.0,0.05916149169206619,6576,L Hippocampus,,0.05916149169206619
+2a,-26.0,-34.0,-6.0,0.02327808178961277,,L Hippocampus,,0.02327808178961277
+2b,-12.0,-28.0,-12.0,0.02182496339082718,,"L Parahippocampal Gyrus, posterior division (nearest)",,0.02182496339082718
+3,26.0,-18.0,-16.0,0.04117799550294876,4544,R Hippocampus,,0.04117799550294876
+4,46.0,-66.0,28.0,0.03916413336992264,1888,"R Lateral Occipital Cortex, superior division",Default mode,0.03916413336992264
+5,22.0,30.0,48.0,0.036458440124988556,1176,R Superior Frontal Gyrus,Default mode,0.036458440124988556
+6,-32.0,30.0,-16.0,0.03209562599658966,1112,L Frontal Orbital Cortex,Limbic,0.03209562599658966
+7,62.0,-6.0,-20.0,0.028920138254761696,728,"R Middle Temporal Gyrus, anterior division",Default mode,0.028920138254761696
+8,-58.0,-8.0,-16.0,0.028669551014900208,856,"L Middle Temporal Gyrus, anterior division",Default mode,0.028669551014900208
+9,-20.0,30.0,46.0,0.028292741626501083,888,L Superior Frontal Gyrus,Default mode,0.028292741626501083
+10,0.0,-54.0,24.0,0.0237161535769701,1072,"R Cingulate Gyrus, posterior division",,0.0237161535769701
+10a,8.0,-60.0,16.0,0.019642313942313194,,R Precuneous Cortex,Default mode,0.019642313942313194
+11,-10.0,-52.0,14.0,0.02164629101753235,1008,L Precuneous Cortex (nearest),Default mode,0.02164629101753235

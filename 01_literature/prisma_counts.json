@@ -1,0 +1,72 @@
+{
+ "date_run": "2026-09-24",
+ "identification": {
+  "pubmed_queries": 10,
+  "pubmed_hits_total_across_queries": 6107,
+  "pubmed_unique_pmids": 3341,
+  "europepmc_preprint_hits": 278,
+  "records_identified_total": 6385,
+  "duplicates_removed": 2874,
+  "duplicates_removed_detail": {
+   "within_pubmed_across_queries": 2766,
+   "pubmed_preprint_vs_journal_version": 7,
+   "europepmc_preprints_already_in_pubmed": 101
+  },
+  "other_methods_records": 19
+ },
+ "screening": {
+  "records_screened": 3511,
+  "excluded_by_keyword_rules": 2026,
+  "excluded_by_keyword_rules_by_reason": {
+   "E1": 206,
+   "E8": 115,
+   "E4": 41,
+   "E2": 33,
+   "E5": 1545,
+   "E6": 76,
+   "E0": 2,
+   "E3": 7,
+   "E9": 1
+  },
+  "screened_by_manual_abstract_reading": 1485,
+  "excluded_by_manual_abstract_reading": 1192,
+  "excluded_by_manual_reading_by_reason": {
+   "E1": 42,
+   "E2": 109,
+   "E11": 8,
+   "E9": 154,
+   "E5": 299,
+   "E7": 462,
+   "E8": 15,
+   "E10": 86,
+   "E6": 17
+  },
+  "screening_include": 126,
+  "screening_maybe": 167
+ },
+ "eligibility": {
+  "reports_assessed": 293,
+  "excluded": 25,
+  "excluded_by_reason": {
+   "E5": 3,
+   "E7": 1,
+   "E13": 4,
+   "E12": 17
+  },
+  "pending_fulltext_not_resolved": 149,
+  "note": "Eligibility was adjudicated at abstract level (plus full text for key studies); 'pending_fulltext' reports require full-text retrieval before final inclusion."
+ },
+ "included": {
+  "database_search": 119,
+  "by_category": {
+   "meta": 3,
+   "mixed": 8,
+   "rsfc": 65,
+   "task": 43
+  },
+  "other_methods": 2,
+  "other_methods_pending_fulltext": 3,
+  "total_included": 121,
+  "total_included_plus_pending": 273
+ }
+}

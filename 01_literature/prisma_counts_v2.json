@@ -1,0 +1,72 @@
+{
+ "date": "2026-09-25",
+ "identification": {
+  "pubmed_queries": 10,
+  "pubmed_hits_total_across_queries": 6107,
+  "pubmed_unique_pmids": 3341,
+  "europepmc_preprint_hits": 278,
+  "records_identified_total": 6385,
+  "duplicates_removed": 2874,
+  "duplicates_removed_detail": {
+   "within_pubmed_across_queries": 2766,
+   "pubmed_preprint_vs_journal_version": 7,
+   "europepmc_preprints_already_in_pubmed": 101
+  },
+  "other_methods_records": 19
+ },
+ "screened": 3511,
+ "dual_screened": 1892,
+ "kappa_binary": 0.885,
+ "kappa_3class": 0.832,
+ "pct_agreement": 97.0,
+ "disagreements": 56,
+ "excluded_title_abstract": 3197,
+ "excluded_preprint_duplicate_at_eligibility": 25,
+ "fulltext_sought": 289,
+ "fulltext_not_retrieved": 6,
+ "fulltext_assessed": 283,
+ "fulltext_excluded": 90,
+ "included": 193,
+ "included_other_methods": 2,
+ "stages": {
+  "pending_round1": {
+   "n": 149,
+   "include": 77,
+   "exclude": 67,
+   "unresolved": 5,
+   "exclusion_codes": {
+    "E9": 32,
+    "E7": 18,
+    "E10": 14,
+    "E8": 1,
+    "E11": 1,
+    "E6": 1
+   }
+  },
+  "reforwarded_round2": {
+   "n": 21,
+   "include": 8,
+   "exclude": 13,
+   "unresolved": 0,
+   "exclusion_codes": {
+    "E9": 5,
+    "E10": 3,
+    "E6": 1,
+    "E5": 1,
+    "E12": 1,
+    "E7": 1,
+    "E13": 1
+   }
+  },
+  "abstract_includes_verified": {
+   "n": 119,
+   "include": 108,
+   "exclude": 10,
+   "unresolved": 1,
+   "exclusion_codes": {
+    "E9": 8,
+    "E7": 2
+   }
+  }
+ }
+}

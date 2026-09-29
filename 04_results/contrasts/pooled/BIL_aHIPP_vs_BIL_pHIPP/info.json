@@ -1,0 +1,10 @@
+{
+ "db": "pooled",
+ "a": "BIL_aHIPP",
+ "b": "BIL_pHIPP",
+ "n_a": 1369,
+ "n_b": 799,
+ "n_shared_excluded": 430,
+ "n_iters": 10000,
+ "seconds": 7184
+}

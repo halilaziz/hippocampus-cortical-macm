@@ -1,0 +1,10 @@
+{
+ "n_perm": 1000,
+ "r_projection_neurosynth_vs_nqindep": 0.6093897583067535,
+ "r_projection_pooled_vs_nqindep": 0.7662626837707652,
+ "null_pairwise_projection_r_mean": 0.0002727858129894182,
+ "null_pairwise_projection_r_95": 0.23512087173550342,
+ "null_pairwise_projection_r_99": 0.3224466572285422,
+ "p_replication": 2.00199799399801e-06,
+ "r_obs_projection_vs_null_mean_projection": 0.052889695074047643
+}

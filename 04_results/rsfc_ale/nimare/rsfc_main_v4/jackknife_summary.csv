@@ -1,0 +1,9 @@
+cluster,n_contrib_gt5pct,max_share_pct,top_experiment
+PositiveTail 1,7,21.9,Zhao2019
+PositiveTail 2,8,17.1,Wagner2016
+PositiveTail 3,6,23.3,Wagner2016
+PositiveTail 4,8,25.6,Qin2016
+PositiveTail 5,5,20.8,Zhao2019
+PositiveTail 6,6,31.1,Chase2015
+PositiveTail 7,7,25.7,Chase2015
+PositiveTail 8,6,20.9,Chase2015

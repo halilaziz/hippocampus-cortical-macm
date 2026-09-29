@@ -1,0 +1,9 @@
+{
+ "db": "nq_indep",
+ "seed": "BIL_HIPP",
+ "n_experiments": 672,
+ "n_foci": 40270,
+ "n_iters": 1000,
+ "sample_size": 20,
+ "seconds": 127.7
+}

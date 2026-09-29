@@ -1,0 +1,11 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-32.0,-26.0,-12.0,14.69521713256836,20560,L Hippocampus,
+1a,-20.0,-10.0,-24.0,4.880761623382568,,L Hippocampus,
+1b,-24.0,0.0,-16.0,4.832092761993408,,L Amygdala,
+1c,-24.0,-8.0,-26.0,4.747568607330322,,L Hippocampus,
+2,30.0,-28.0,-10.0,13.97283935546875,21568,R Hippocampus,
+2a,26.0,-6.0,-18.0,6.664058685302734,,R Amygdala,
+2b,14.0,-48.0,-2.0,4.689319610595703,,R Lingual Gyrus,Visual
+2c,28.0,2.0,-18.0,4.530763149261475,,R Amygdala,
+3,-8.0,44.0,-4.0,5.007205009460449,448,L Paracingulate Gyrus,Default mode
+4,4.0,32.0,18.0,4.4718194007873535,136,"R Cingulate Gyrus, anterior division",Frontoparietal control

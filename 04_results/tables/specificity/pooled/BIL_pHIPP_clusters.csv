@@ -1,0 +1,18 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-28.0,-28.0,-12.0,28.47665786743164,183376,L Hippocampus,
+1a,28.0,-30.0,-12.0,26.924095153808594,,R Hippocampus,
+1b,28.0,-10.0,-22.0,12.185117721557617,,R Hippocampus,
+1c,-16.0,-52.0,10.0,7.248022079467773,,L Precuneous Cortex (nearest),
+2,-4.0,44.0,-2.0,6.430731773376465,17704,L Paracingulate Gyrus,Default mode
+2a,0.0,60.0,0.0,5.845292091369629,,R Frontal Pole,
+2b,-8.0,44.0,0.0,5.7314558029174805,,L Paracingulate Gyrus,Default mode
+2c,10.0,40.0,6.0,5.340199947357178,,"R Cingulate Gyrus, anterior division",Default mode
+3,-48.0,-66.0,32.0,5.398943901062012,2568,"L Lateral Occipital Cortex, superior division",Default mode
+4,-14.0,34.0,18.0,4.7520222663879395,768,"L Cingulate Gyrus, anterior division (nearest)",
+5,-18.0,36.0,48.0,4.460488319396973,696,L Superior Frontal Gyrus,Default mode
+6,18.0,50.0,-8.0,4.37178373336792,352,R Frontal Pole (nearest),
+6a,10.0,62.0,-10.0,3.8553168773651123,,R Frontal Pole,Limbic
+6b,14.0,48.0,-6.0,3.824268341064453,,R Paracingulate Gyrus (nearest),
+7,48.0,8.0,-30.0,4.201802730560303,96,R Temporal Pole,Default mode
+8,44.0,-64.0,30.0,3.822392463684082,304,"R Lateral Occipital Cortex, superior division",Default mode
+9,4.0,-92.0,14.0,3.803630828857422,80,R Occipital Pole,Visual

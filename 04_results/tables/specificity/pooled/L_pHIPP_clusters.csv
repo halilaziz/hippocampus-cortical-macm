@@ -1,0 +1,35 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-28.0,-28.0,-12.0,29.78551483154297,127160,L Hippocampus,
+1a,26.0,-28.0,-12.0,14.703439712524414,,R Hippocampus,
+1b,-26.0,-6.0,-24.0,8.731355667114258,,L Hippocampus,
+1c,32.0,-14.0,-26.0,8.517892837524414,,R Hippocampus,Limbic
+2,-4.0,46.0,-4.0,5.629271984100342,5112,L Paracingulate Gyrus,Default mode
+2a,4.0,44.0,8.0,4.743234157562256,,"R Cingulate Gyrus, anterior division",Default mode
+2b,4.0,54.0,-10.0,4.675902843475342,,R Frontal Medial Cortex,Default mode
+2c,0.0,44.0,6.0,4.190063953399658,,"R Cingulate Gyrus, anterior division",Default mode
+3,-38.0,-70.0,28.0,5.552634239196777,2232,"L Lateral Occipital Cortex, superior division",Default mode
+3a,-50.0,-66.0,32.0,3.9805524349212646,,"L Lateral Occipital Cortex, superior division",Default mode
+3b,-38.0,-78.0,30.0,3.913271903991699,,"L Lateral Occipital Cortex, superior division",Default mode
+4,-6.0,18.0,-8.0,5.158769607543945,2200,L Subcallosal Cortex,Limbic
+4a,12.0,10.0,-10.0,4.242990016937256,,R Accumbens,
+4b,0.0,18.0,-8.0,4.099507808685303,,R Subcallosal Cortex,Default mode
+5,-20.0,26.0,48.0,5.12438440322876,3640,L Superior Frontal Gyrus,Default mode
+5a,-12.0,42.0,44.0,4.521777629852295,,L Frontal Pole,Default mode
+5b,-22.0,26.0,52.0,4.51909875869751,,L Superior Frontal Gyrus,Default mode
+5c,-34.0,16.0,46.0,4.053528785705566,,L Middle Frontal Gyrus,
+6,4.0,-26.0,58.0,4.9969964027404785,456,R Precentral Gyrus,Somatomotor
+7,54.0,-4.0,-22.0,4.988542556762695,2832,"R Middle Temporal Gyrus, anterior division",Default mode
+7a,44.0,4.0,-28.0,3.831010341644287,,R Temporal Pole (nearest),
+7b,52.0,-8.0,-12.0,3.3924856185913086,,"R Superior Temporal Gyrus, posterior division",Default mode
+8,24.0,32.0,-10.0,4.930697917938232,1144,R Frontal Orbital Cortex (nearest),Default mode
+8a,38.0,40.0,-16.0,4.4294753074646,,R Frontal Pole,Default mode
+9,-12.0,-84.0,20.0,4.589117527008057,184,L Cuneal Cortex (nearest),
+10,-20.0,42.0,24.0,4.5619282722473145,456,L Frontal Pole (nearest),
+11,-4.0,-52.0,-46.0,4.432545185089111,1072,L Cerebellum,
+11a,8.0,-52.0,-50.0,4.295714855194092,,R Cerebellum,
+11b,-4.0,-54.0,-42.0,3.950193166732788,,L Cerebellum,
+12,-2.0,-4.0,26.0,4.299848556518555,424,"L Cingulate Gyrus, anterior division (nearest)",
+13,40.0,-10.0,2.0,4.240581035614014,192,R Insular Cortex,Salience/ventral attention
+14,-22.0,30.0,-16.0,4.003994464874268,104,L Frontal Orbital Cortex,Limbic
+15,-46.0,4.0,-34.0,3.6356544494628906,88,L Temporal Pole,Limbic
+16,12.0,-48.0,-56.0,3.620767116546631,88,R Cerebellum,

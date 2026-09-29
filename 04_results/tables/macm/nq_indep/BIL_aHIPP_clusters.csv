@@ -1,0 +1,20 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network,ALE
+1,-26.0,-16.0,-18.0,25.800975799560547,14256,L Hippocampus,,0.5775183439254761
+1a,-30.0,-34.0,-16.0,8.871832847595215,,"L Parahippocampal Gyrus, posterior division",Visual,0.24060344696044922
+2,24.0,-12.0,-20.0,25.180652618408203,13920,R Hippocampus,,0.5665590167045593
+3,-32.0,20.0,2.0,10.349150657653809,2456,L Insular Cortex,Salience/ventral attention,0.27087703347206116
+3a,-36.0,28.0,-12.0,6.416250705718994,,L Frontal Orbital Cortex,Default mode,0.19162042438983917
+4,-44.0,12.0,26.0,9.740020751953125,2648,"L Inferior Frontal Gyrus, pars opercularis",Frontoparietal control,0.25832536816596985
+4a,-46.0,26.0,16.0,6.708767414093018,,"L Inferior Frontal Gyrus, pars triangularis (nearest)",Frontoparietal control,0.19731323421001434
+5,-10.0,-16.0,8.0,9.438982963562012,1472,L Thalamus,,0.25214725732803345
+6,8.0,-16.0,6.0,9.35606861114502,1056,R Thalamus,,0.2504635155200958
+7,32.0,20.0,0.0,9.230205535888672,2280,R Insular Cortex,Frontoparietal control,0.24788202345371246
+8,-2.0,14.0,46.0,8.667530059814453,1024,L Paracingulate Gyrus,Salience/ventral attention,0.2364482432603836
+9,-2.0,-54.0,24.0,8.647212982177734,2488,"L Cingulate Gyrus, posterior division",Default mode,0.23602281510829926
+9a,0.0,-36.0,30.0,6.655985355377197,,"R Cingulate Gyrus, posterior division",Default mode,0.19630488753318787
+10,46.0,10.0,28.0,8.117118835449219,544,R Precentral Gyrus,Dorsal attention,0.2253105193376541
+11,-48.0,-66.0,28.0,8.080567359924316,792,"L Lateral Occipital Cortex, superior division",Default mode,0.2245938777923584
+12,-42.0,-54.0,-18.0,7.246662139892578,312,L Temporal Occipital Fusiform Cortex,Dorsal attention,0.20793357491493225
+13,-4.0,52.0,0.0,6.914252281188965,520,L Paracingulate Gyrus,Default mode,0.20136985182762146
+13a,2.0,40.0,0.0,6.444830417633057,,"R Cingulate Gyrus, anterior division",Default mode,0.19215963780879974
+14,10.0,6.0,4.0,6.869505405426025,232,R Caudate (nearest),,0.20048469305038452

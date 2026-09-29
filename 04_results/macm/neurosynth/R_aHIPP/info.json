@@ -1,0 +1,9 @@
+{
+ "db": "neurosynth",
+ "seed": "R_aHIPP",
+ "n_experiments": 823,
+ "n_foci": 50916,
+ "n_iters": 1000,
+ "sample_size": 20,
+ "seconds": 164.9
+}

@@ -1,0 +1,8 @@
+{
+ "n_disagreements": 56,
+ "human_include": 22,
+ "human_exclude": 34,
+ "agree_with_fulltext": 33,
+ "n_resolved": 55,
+ "rule": "liberal accelerated: human abstract-level adjudication; final decisions from full text"
+}

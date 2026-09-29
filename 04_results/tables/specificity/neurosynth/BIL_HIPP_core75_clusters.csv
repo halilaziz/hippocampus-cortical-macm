@@ -1,0 +1,31 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,26.0,-16.0,-20.0,27.83481216430664,276208,R Hippocampus,
+1a,-26.0,-16.0,-20.0,27.64004135131836,,L Hippocampus,
+1b,56.0,-4.0,-22.0,8.649234771728516,,"R Middle Temporal Gyrus, anterior division",Default mode
+1c,0.0,-54.0,18.0,8.23939323425293,,R Precuneous Cortex,
+2,34.0,34.0,-18.0,5.229854106903076,3664,R Frontal Pole,Default mode
+2a,40.0,30.0,-8.0,4.670590400695801,,R Frontal Orbital Cortex,
+2b,22.0,26.0,-22.0,4.213730335235596,,R Frontal Orbital Cortex,Limbic
+2c,30.0,40.0,-8.0,3.9612646102905273,,R Frontal Pole,Default mode
+3,-4.0,-16.0,36.0,5.105556964874268,3088,"L Cingulate Gyrus, posterior division",Default mode
+3a,-16.0,-16.0,28.0,4.585090160369873,,L Caudate (nearest),
+3b,4.0,-12.0,36.0,4.194394588470459,,"R Cingulate Gyrus, anterior division",Default mode
+3c,-12.0,-4.0,26.0,4.079860687255859,,L Caudate (nearest),
+4,-50.0,-68.0,26.0,5.080438613891602,4832,"L Lateral Occipital Cortex, superior division",Default mode
+4a,-38.0,-58.0,28.0,4.573832035064697,,L Angular Gyrus,
+4b,-54.0,-68.0,32.0,4.559494495391846,,"L Lateral Occipital Cortex, superior division",Default mode
+4c,-42.0,-76.0,28.0,4.5254387855529785,,"L Lateral Occipital Cortex, superior division",Default mode
+5,50.0,-66.0,34.0,4.967007160186768,2368,"R Lateral Occipital Cortex, superior division",Default mode
+6,2.0,-44.0,-46.0,4.871711730957031,3720,R Cerebellum,
+6a,14.0,-54.0,-44.0,3.450223207473755,,R Cerebellum,
+6b,-12.0,-50.0,-42.0,3.449976921081543,,L Cerebellum,
+6c,12.0,-42.0,-36.0,3.4019265174865723,,R Cerebellum,
+7,20.0,40.0,44.0,4.261250019073486,480,R Frontal Pole,Default mode
+8,30.0,-82.0,-42.0,4.057712554931641,488,R Cerebellum,
+9,48.0,-56.0,-16.0,4.003279685974121,984,"R Inferior Temporal Gyrus, temporooccipital part",Dorsal attention
+9a,60.0,-60.0,-10.0,3.616020679473877,,"R Inferior Temporal Gyrus, temporooccipital part (nearest)",Visual
+10,26.0,26.0,44.0,3.9459946155548096,296,R Middle Frontal Gyrus,Default mode
+11,38.0,-14.0,10.0,3.9423770904541016,168,R Insular Cortex,Somatomotor
+12,0.0,0.0,-26.0,3.786304473876953,80,,
+13,6.0,-58.0,-46.0,3.738050937652588,136,R Cerebellum,
+14,-6.0,-28.0,10.0,3.6604971885681152,88,L Thalamus,

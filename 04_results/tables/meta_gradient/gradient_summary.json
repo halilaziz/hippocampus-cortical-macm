@@ -1,0 +1,103 @@
+{
+ "long_axis_vectors": [
+  [
+   0.016,
+   0.799,
+   -0.601
+  ],
+  [
+   -0.114,
+   0.787,
+   -0.606
+  ]
+ ],
+ "r_G1_longaxis": 0.8557742575950282,
+ "rho_G1_longaxis": 0.916138495397603,
+ "r_G2_longaxis": 0.4067346336816823,
+ "r_G2_absx": 0.05913148477733038,
+ "r_G2_hemi": -0.04920019997404784,
+ "r_G3_longaxis": -0.026181361200532487,
+ "r_G3_absx": -0.5119188467644022,
+ "r_G3_hemi": -0.45922782021210234,
+ "r_G1_left_vs_right_longaxis": [
+  0.855619329976804,
+  0.8583216521380512
+ ],
+ "var_explained": [
+  0.14573371410369873,
+  0.12293802946805954,
+  0.11399303376674652,
+  0.10595785826444626,
+  0.09727077931165695
+ ],
+ "silhouette_by_k": {
+  "2": 0.1739555299282074,
+  "3": 0.14140109717845917,
+  "4": 0.15121816098690033,
+  "5": 0.11445990204811096,
+  "6": 0.1229054257273674,
+  "7": 0.12467879801988602
+ },
+ "dip_G1": 0.0079097286750102,
+ "p_dip_G1": 0.9710173719356042,
+ "cv_r2": {
+  "step_k2": 0.0683,
+  "smooth_k2": 0.0804,
+  "step_k3": 0.088,
+  "smooth_k3": 0.1108,
+  "step_k4": 0.1067,
+  "smooth_k4": 0.0999,
+  "step_k5": 0.1054,
+  "smooth_k5": 0.0535
+ },
+ "r_G1_neurosynth_vs_nqindep": 0.8419954180717468,
+ "r_G1_half1_vs_half2": 0.9204676747322083,
+ "n_decoding_studies": 1874,
+ "n_terms_q05": 5,
+ "piecewise": {
+  "breakpoint_longaxis_mm": 1.9617161193799326,
+  "breakpoint_mni_y": -18.989473684210527,
+  "breakpoint_ci95_longaxis": [
+   1.0973290551733612,
+   3.030059681882431
+  ],
+  "slope_posterior": 0.23327206013473534,
+  "slope_anterior": 1.0143429941386233,
+  "slope_ratio": 4.348326128524565,
+  "delta_BIC_linear_minus_piecewise": 539.9404311016951,
+  "breakpoint_mni_y_ci95": [
+   -19.910112359550563,
+   -18.233009708737864
+  ]
+ },
+ "piecewise_by_analysis": {
+  "neurosynth_K150": {
+   "breakpoint_mni_y": -18.6,
+   "slope_ratio": 2.44
+  },
+  "nq_indep_K100": {
+   "breakpoint_mni_y": -27.5,
+   "slope_ratio": 2.74
+  },
+  "pooled_K150": {
+   "breakpoint_mni_y": -19.0,
+   "slope_ratio": 4.36
+  },
+  "pooled_K150_half1": {
+   "breakpoint_mni_y": -29.7,
+   "slope_ratio": 2.33
+  },
+  "pooled_K150_half2": {
+   "breakpoint_mni_y": -25.9,
+   "slope_ratio": 3.82
+  },
+  "pooled_K300": {
+   "breakpoint_mni_y": -24.9,
+   "slope_ratio": 2.27
+  },
+  "pooled_K75": {
+   "breakpoint_mni_y": -18.0,
+   "slope_ratio": 5.4
+  }
+ }
+}

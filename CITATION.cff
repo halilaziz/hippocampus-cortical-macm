@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Specific cortical partners and long-axis gradient of the hippocampus: code and data"
+authors:
+  - family-names: Velioglu
+    given-names: Halil Aziz
+    affiliation: Istanbul Medipol University
+repository-code: "https://github.com/halilaziz/hippocampus-cortical-macm"
+license: MIT
+date-released: 2026-09-29

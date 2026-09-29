@@ -1,0 +1,26 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-18.0,-18.0,37.93526840209961,459912,L Hippocampus,
+1a,26.0,-16.0,-18.0,36.81534957885742,,R Hippocampus,
+1b,56.0,-2.0,-22.0,11.004247665405273,,"R Middle Temporal Gyrus, anterior division",Default mode
+1c,-4.0,-54.0,22.0,10.5105619430542,,"L Cingulate Gyrus, posterior division",Default mode
+2,-42.0,-74.0,26.0,7.862533092498779,9048,"L Lateral Occipital Cortex, superior division",Default mode
+3,0.0,-50.0,-46.0,5.615865707397461,6888,R Cerebellum,
+3a,10.0,-40.0,-46.0,4.53279972076416,,R Cerebellum,
+3b,-8.0,-52.0,-42.0,4.259810447692871,,L Cerebellum,
+3c,8.0,-48.0,-36.0,4.2529730796813965,,R Cerebellum,
+4,46.0,-68.0,28.0,5.326793670654297,5104,"R Lateral Occipital Cortex, superior division",Default mode
+4a,56.0,-62.0,20.0,4.809058666229248,,"R Lateral Occipital Cortex, superior division",Default mode
+4b,44.0,-58.0,22.0,4.789733409881592,,R Angular Gyrus,Default mode
+4c,50.0,-64.0,32.0,4.614645957946777,,"R Lateral Occipital Cortex, superior division",Default mode
+5,-64.0,-48.0,-12.0,5.03593635559082,528,"L Middle Temporal Gyrus, temporooccipital part",Frontoparietal control
+6,-30.0,-82.0,-26.0,4.605589866638184,456,L Occipital Fusiform Gyrus (nearest),
+7,2.0,-26.0,58.0,4.572626113891602,952,R Precentral Gyrus,
+8,56.0,30.0,10.0,4.208224773406982,480,"R Inferior Frontal Gyrus, pars triangularis",Default mode
+9,-44.0,-46.0,-48.0,3.936349630355835,232,L Cerebellum,
+10,34.0,-84.0,-36.0,3.923901081085205,432,R Cerebellum,
+11,2.0,-86.0,22.0,3.8607311248779297,432,R Cuneal Cortex,Visual
+12,-14.0,10.0,24.0,3.724257707595825,96,L Caudate (nearest),
+13,-12.0,-8.0,30.0,3.691755533218384,160,,
+14,-4.0,-82.0,26.0,3.36673641204834,88,L Cuneal Cortex,Visual
+15,-26.0,-88.0,-22.0,3.364142656326294,104,L Occipital Fusiform Gyrus (nearest),Visual
+16,0.0,-40.0,-32.0,3.2988760471343994,80,R Cerebellum,

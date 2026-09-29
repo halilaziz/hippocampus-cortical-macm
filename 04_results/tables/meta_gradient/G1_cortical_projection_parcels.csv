@@ -1,0 +1,401 @@
+parcel,network,r_with_G1,mean_specific_coact
+7Networks_LH_Vis_1,Visual,-0.023236033,0.07070149
+7Networks_LH_Vis_2,Visual,-0.39914066,0.055043824
+7Networks_LH_Vis_3,Visual,0.048270598,0.023871528
+7Networks_LH_Vis_4,Visual,-0.34605175,0.046002887
+7Networks_LH_Vis_5,Visual,-0.327325,0.012047941
+7Networks_LH_Vis_6,Visual,0.10893424,0.006906303
+7Networks_LH_Vis_7,Visual,-0.54013276,0.028445696
+7Networks_LH_Vis_8,Visual,-0.0017722594,-0.038043838
+7Networks_LH_Vis_9,Visual,-0.21021897,0.013388039
+7Networks_LH_Vis_10,Visual,-0.41162166,0.062126465
+7Networks_LH_Vis_11,Visual,-0.37004066,0.014611809
+7Networks_LH_Vis_12,Visual,0.13897777,-0.0025213393
+7Networks_LH_Vis_13,Visual,-0.48694745,0.028537443
+7Networks_LH_Vis_14,Visual,0.06881127,-0.020139745
+7Networks_LH_Vis_15,Visual,-0.10489309,0.00802929
+7Networks_LH_Vis_16,Visual,-0.44944102,0.08655398
+7Networks_LH_Vis_17,Visual,-0.13314708,-0.009446484
+7Networks_LH_Vis_18,Visual,-0.4361319,0.01802418
+7Networks_LH_Vis_19,Visual,-0.42087245,-0.021545187
+7Networks_LH_Vis_20,Visual,-0.4710843,0.07194138
+7Networks_LH_Vis_21,Visual,-0.43795902,0.05312781
+7Networks_LH_Vis_22,Visual,-0.61867183,0.08592045
+7Networks_LH_Vis_23,Visual,-0.34738758,0.009605809
+7Networks_LH_Vis_24,Visual,-0.26160908,0.018018352
+7Networks_LH_Vis_25,Visual,-0.4001037,0.03731392
+7Networks_LH_Vis_26,Visual,-0.7699826,0.0813441
+7Networks_LH_Vis_27,Visual,-0.64052117,0.01032232
+7Networks_LH_Vis_28,Visual,-0.44438273,0.011420395
+7Networks_LH_Vis_29,Visual,-0.2867908,0.014917459
+7Networks_LH_Vis_30,Visual,-0.40040776,0.013192844
+7Networks_LH_Vis_31,Visual,-0.4871186,-0.047788396
+7Networks_LH_SomMot_1,Somatomotor,-0.34431624,0.037720907
+7Networks_LH_SomMot_2,Somatomotor,-0.3399281,-0.01341407
+7Networks_LH_SomMot_3,Somatomotor,-0.45580134,0.016780317
+7Networks_LH_SomMot_4,Somatomotor,-0.27453908,0.034992892
+7Networks_LH_SomMot_5,Somatomotor,-0.44326925,0.014539263
+7Networks_LH_SomMot_6,Somatomotor,-0.41906762,-0.045496773
+7Networks_LH_SomMot_7,Somatomotor,-0.29642567,-0.012977476
+7Networks_LH_SomMot_8,Somatomotor,-0.33304644,-0.0017677449
+7Networks_LH_SomMot_9,Somatomotor,-0.28731176,-0.028581351
+7Networks_LH_SomMot_10,Somatomotor,-0.49463236,-0.03692807
+7Networks_LH_SomMot_11,Somatomotor,-0.32330036,-0.04730396
+7Networks_LH_SomMot_12,Somatomotor,-0.39749086,-0.057553247
+7Networks_LH_SomMot_13,Somatomotor,-0.15293586,-0.010370712
+7Networks_LH_SomMot_14,Somatomotor,-0.5302603,-0.019850096
+7Networks_LH_SomMot_15,Somatomotor,-0.23241675,-0.03996843
+7Networks_LH_SomMot_16,Somatomotor,-0.2681611,-0.05790395
+7Networks_LH_SomMot_17,Somatomotor,-0.38763922,-0.025788918
+7Networks_LH_SomMot_18,Somatomotor,-0.49350172,0.0059247175
+7Networks_LH_SomMot_19,Somatomotor,-0.1610691,-0.058130257
+7Networks_LH_SomMot_20,Somatomotor,0.006485696,-0.064374216
+7Networks_LH_SomMot_21,Somatomotor,-0.11820856,-0.071887694
+7Networks_LH_SomMot_22,Somatomotor,-0.27979758,-0.059611257
+7Networks_LH_SomMot_23,Somatomotor,-0.4641539,0.030921422
+7Networks_LH_SomMot_24,Somatomotor,-0.40605956,0.035252765
+7Networks_LH_SomMot_25,Somatomotor,-0.38928276,-0.095253944
+7Networks_LH_SomMot_26,Somatomotor,-0.06918224,-0.07315001
+7Networks_LH_SomMot_27,Somatomotor,-0.25247502,-0.05606257
+7Networks_LH_SomMot_28,Somatomotor,-0.44315213,-0.03260003
+7Networks_LH_SomMot_29,Somatomotor,-0.37973893,-0.021281365
+7Networks_LH_SomMot_30,Somatomotor,-0.14720276,-0.091427244
+7Networks_LH_SomMot_31,Somatomotor,-0.31363076,0.002367376
+7Networks_LH_SomMot_32,Somatomotor,-0.20042169,0.0141316485
+7Networks_LH_SomMot_33,Somatomotor,-0.18109299,0.015551407
+7Networks_LH_SomMot_34,Somatomotor,-0.17771445,-0.04364122
+7Networks_LH_SomMot_35,Somatomotor,-0.31611568,0.0012049343
+7Networks_LH_SomMot_36,Somatomotor,-0.0731075,0.0071123703
+7Networks_LH_SomMot_37,Somatomotor,-0.11886957,0.00472658
+7Networks_LH_DorsAttn_Post_1,Dorsal attention,0.22018184,0.084680825
+7Networks_LH_DorsAttn_Post_2,Dorsal attention,0.2511257,0.033092078
+7Networks_LH_DorsAttn_Post_3,Dorsal attention,0.03798765,-0.0119011095
+7Networks_LH_DorsAttn_Post_4,Dorsal attention,-0.08673333,0.058941927
+7Networks_LH_DorsAttn_Post_5,Dorsal attention,-0.6908759,-0.018738827
+7Networks_LH_DorsAttn_Post_6,Dorsal attention,-0.24971148,-0.103430554
+7Networks_LH_DorsAttn_Post_7,Dorsal attention,-0.6531125,-0.07977045
+7Networks_LH_DorsAttn_Post_8,Dorsal attention,-0.38604084,-0.089459084
+7Networks_LH_DorsAttn_Post_9,Dorsal attention,-0.71154153,-0.09529957
+7Networks_LH_DorsAttn_Post_10,Dorsal attention,-0.52730006,-0.098118834
+7Networks_LH_DorsAttn_Post_11,Dorsal attention,-0.63671935,-0.11668696
+7Networks_LH_DorsAttn_Post_12,Dorsal attention,-0.3089906,-0.11995921
+7Networks_LH_DorsAttn_Post_13,Dorsal attention,-0.47119448,-0.07742581
+7Networks_LH_DorsAttn_Post_14,Dorsal attention,-0.14483538,-0.06887021
+7Networks_LH_DorsAttn_Post_15,Dorsal attention,-0.5484136,-0.03247551
+7Networks_LH_DorsAttn_Post_16,Dorsal attention,-0.2023243,-0.046928123
+7Networks_LH_DorsAttn_Post_17,Dorsal attention,-0.072062746,-0.008352231
+7Networks_LH_DorsAttn_FEF_1,Dorsal attention,-0.31302407,-0.086710274
+7Networks_LH_DorsAttn_FEF_2,Dorsal attention,-0.40443224,-0.07969351
+7Networks_LH_DorsAttn_FEF_3,Dorsal attention,-0.34100538,-0.10410359
+7Networks_LH_DorsAttn_FEF_4,Dorsal attention,-0.2037893,-0.055966593
+7Networks_LH_DorsAttn_PrCv_1,Dorsal attention,-0.21687448,-0.08700742
+7Networks_LH_DorsAttn_PrCv_2,Dorsal attention,-0.29023296,-0.09846263
+7Networks_LH_SalVentAttn_ParOper_1,Salience/ventral attention,-0.4076176,-0.05949661
+7Networks_LH_SalVentAttn_ParOper_2,Salience/ventral attention,-0.16334951,-0.04156103
+7Networks_LH_SalVentAttn_ParOper_3,Salience/ventral attention,-0.18403432,-0.047655974
+7Networks_LH_SalVentAttn_ParOper_4,Salience/ventral attention,-0.0476269,-0.05232898
+7Networks_LH_SalVentAttn_TempOcc_1,Salience/ventral attention,0.1096413,0.020917643
+7Networks_LH_SalVentAttn_FrOperIns_1,Salience/ventral attention,-0.07621887,0.14316432
+7Networks_LH_SalVentAttn_FrOperIns_2,Salience/ventral attention,-0.18412985,0.046556715
+7Networks_LH_SalVentAttn_FrOperIns_3,Salience/ventral attention,-0.34990197,0.001822146
+7Networks_LH_SalVentAttn_FrOperIns_4,Salience/ventral attention,-0.34119618,0.07084874
+7Networks_LH_SalVentAttn_FrOperIns_5,Salience/ventral attention,-0.38385874,-0.01794976
+7Networks_LH_SalVentAttn_FrOperIns_6,Salience/ventral attention,-0.6137835,-0.0019310095
+7Networks_LH_SalVentAttn_FrOperIns_7,Salience/ventral attention,-0.42111272,-0.037663154
+7Networks_LH_SalVentAttn_FrOperIns_8,Salience/ventral attention,-0.22242823,-0.008629651
+7Networks_LH_SalVentAttn_FrOperIns_9,Salience/ventral attention,-0.33655015,-0.07355347
+7Networks_LH_SalVentAttn_PFCl_1,Salience/ventral attention,-0.37228188,0.015657062
+7Networks_LH_SalVentAttn_Med_1,Salience/ventral attention,-0.4251454,-0.027613591
+7Networks_LH_SalVentAttn_Med_2,Salience/ventral attention,-0.58360875,-0.038241755
+7Networks_LH_SalVentAttn_Med_3,Salience/ventral attention,-0.6134751,0.05847972
+7Networks_LH_SalVentAttn_Med_4,Salience/ventral attention,-0.46175873,-0.123755954
+7Networks_LH_SalVentAttn_Med_5,Salience/ventral attention,-0.51650983,0.040610064
+7Networks_LH_SalVentAttn_Med_6,Salience/ventral attention,-0.45611304,0.0019733212
+7Networks_LH_SalVentAttn_Med_7,Salience/ventral attention,-0.14762735,-0.054988183
+7Networks_LH_Limbic_OFC_1,Limbic,0.5171598,0.0987561
+7Networks_LH_Limbic_OFC_2,Limbic,0.25775486,0.15416554
+7Networks_LH_Limbic_OFC_3,Limbic,0.368383,0.119441554
+7Networks_LH_Limbic_OFC_4,Limbic,0.32220754,0.14553592
+7Networks_LH_Limbic_OFC_5,Limbic,-0.0997251,0.052855726
+7Networks_LH_Limbic_TempPole_1,Limbic,0.33886284,0.05726273
+7Networks_LH_Limbic_TempPole_2,Limbic,0.37892956,0.07600496
+7Networks_LH_Limbic_TempPole_3,Limbic,0.22512981,0.025661064
+7Networks_LH_Limbic_TempPole_4,Limbic,0.2747472,0.06681347
+7Networks_LH_Limbic_TempPole_5,Limbic,0.13236511,0.04961129
+7Networks_LH_Limbic_TempPole_6,Limbic,0.39053378,0.1285644
+7Networks_LH_Limbic_TempPole_7,Limbic,0.4031605,0.13451435
+7Networks_LH_Limbic_TempPole_8,Limbic,-0.120899685,0.008171064
+7Networks_LH_Cont_Par_1,Frontoparietal control,-0.62959343,-0.030143306
+7Networks_LH_Cont_Par_2,Frontoparietal control,-0.017787006,-0.046442248
+7Networks_LH_Cont_Par_3,Frontoparietal control,-0.160786,-0.04951426
+7Networks_LH_Cont_Par_4,Frontoparietal control,-0.601233,-0.06586646
+7Networks_LH_Cont_Par_5,Frontoparietal control,-0.38332003,-0.09022907
+7Networks_LH_Cont_Par_6,Frontoparietal control,-0.4646795,-0.12674563
+7Networks_LH_Cont_Temp_1,Frontoparietal control,-0.059039503,0.043878656
+7Networks_LH_Cont_OFC_1,Frontoparietal control,0.29308105,0.07489007
+7Networks_LH_Cont_PFCl_1,Frontoparietal control,-0.14711076,0.034934435
+7Networks_LH_Cont_PFCl_2,Frontoparietal control,0.08742954,-0.0075051202
+7Networks_LH_Cont_PFCl_3,Frontoparietal control,-0.4810651,0.0003681784
+7Networks_LH_Cont_PFCl_4,Frontoparietal control,-0.39208707,0.044180837
+7Networks_LH_Cont_PFCl_5,Frontoparietal control,-0.2145324,-0.022578517
+7Networks_LH_Cont_PFCl_6,Frontoparietal control,-0.41986352,-0.022966728
+7Networks_LH_Cont_PFCl_7,Frontoparietal control,-0.31366432,-0.051322136
+7Networks_LH_Cont_PFCl_8,Frontoparietal control,-0.22484866,0.0022307248
+7Networks_LH_Cont_PFCv_1,Frontoparietal control,-0.25727636,0.0691575
+7Networks_LH_Cont_pCun_1,Frontoparietal control,-0.5715422,-0.021665707
+7Networks_LH_Cont_pCun_2,Frontoparietal control,-0.65894747,-0.025337873
+7Networks_LH_Cont_Cing_1,Frontoparietal control,-0.5420005,0.016356817
+7Networks_LH_Cont_Cing_2,Frontoparietal control,-0.5256474,0.06621809
+7Networks_LH_Cont_PFCmp_1,Frontoparietal control,-0.33191776,-0.041309528
+7Networks_LH_Default_Temp_1,Default mode,0.30002397,0.15357658
+7Networks_LH_Default_Temp_2,Default mode,0.16870499,0.12861122
+7Networks_LH_Default_Temp_3,Default mode,0.030936334,0.059285738
+7Networks_LH_Default_Temp_4,Default mode,0.024191068,0.15913785
+7Networks_LH_Default_Temp_5,Default mode,0.020284668,0.095617875
+7Networks_LH_Default_Temp_6,Default mode,-0.21535522,0.037551828
+7Networks_LH_Default_Temp_7,Default mode,-0.20935233,0.040763907
+7Networks_LH_Default_Temp_8,Default mode,-0.29169497,0.05428777
+7Networks_LH_Default_Temp_9,Default mode,-0.029106954,0.012473354
+7Networks_LH_Default_Temp_10,Default mode,-0.06693542,0.0013250994
+7Networks_LH_Default_Par_1,Default mode,-0.11675741,-0.020308908
+7Networks_LH_Default_Par_2,Default mode,-0.28077817,0.093272
+7Networks_LH_Default_Par_3,Default mode,-0.39348868,0.0845413
+7Networks_LH_Default_Par_4,Default mode,-0.34694085,0.10055051
+7Networks_LH_Default_Par_5,Default mode,-0.115211,0.040361673
+7Networks_LH_Default_Par_6,Default mode,-0.33986437,0.050918095
+7Networks_LH_Default_Par_7,Default mode,-0.21330133,0.0024221262
+7Networks_LH_Default_PFC_1,Default mode,0.15775046,0.12665585
+7Networks_LH_Default_PFC_2,Default mode,0.3186742,0.10139641
+7Networks_LH_Default_PFC_3,Default mode,0.19062817,0.1665009
+7Networks_LH_Default_PFC_4,Default mode,0.12370509,0.17833209
+7Networks_LH_Default_PFC_5,Default mode,0.037714414,0.031646762
+7Networks_LH_Default_PFC_6,Default mode,-0.21712923,0.029571502
+7Networks_LH_Default_PFC_7,Default mode,0.0710165,0.0025457228
+7Networks_LH_Default_PFC_8,Default mode,-0.0887132,0.13414566
+7Networks_LH_Default_PFC_9,Default mode,-0.3313339,0.151361
+7Networks_LH_Default_PFC_10,Default mode,-0.045985386,-0.045205332
+7Networks_LH_Default_PFC_11,Default mode,0.022453615,0.068245314
+7Networks_LH_Default_PFC_12,Default mode,-0.6369382,0.06471754
+7Networks_LH_Default_PFC_13,Default mode,-0.071453296,0.13205144
+7Networks_LH_Default_PFC_14,Default mode,0.10580009,0.115742356
+7Networks_LH_Default_PFC_15,Default mode,-0.32529405,0.08930579
+7Networks_LH_Default_PFC_16,Default mode,-0.22600761,0.077873014
+7Networks_LH_Default_PFC_17,Default mode,-0.10222368,0.0024962984
+7Networks_LH_Default_PFC_18,Default mode,-0.123701945,0.052970238
+7Networks_LH_Default_PFC_19,Default mode,-0.09454259,0.09861389
+7Networks_LH_Default_PFC_20,Default mode,-0.22932598,-0.038167175
+7Networks_LH_Default_PFC_21,Default mode,-0.17758918,0.0098249605
+7Networks_LH_Default_PFC_22,Default mode,-0.3979826,0.0468762
+7Networks_LH_Default_PFC_23,Default mode,-0.03763475,0.03468697
+7Networks_LH_Default_PFC_24,Default mode,-0.21863744,-0.094002485
+7Networks_LH_Default_pCunPCC_1,Default mode,-0.42421073,0.13163997
+7Networks_LH_Default_pCunPCC_2,Default mode,-0.55587864,0.13885479
+7Networks_LH_Default_pCunPCC_3,Default mode,-0.29253867,0.17343272
+7Networks_LH_Default_pCunPCC_4,Default mode,-0.41806728,0.098408684
+7Networks_LH_Default_pCunPCC_5,Default mode,-0.6608525,0.070591085
+7Networks_LH_Default_pCunPCC_6,Default mode,-0.373051,0.14540426
+7Networks_LH_Default_pCunPCC_7,Default mode,-0.42915732,0.12995374
+7Networks_LH_Default_pCunPCC_8,Default mode,-0.5640882,0.09857352
+7Networks_LH_Default_pCunPCC_9,Default mode,-0.5767964,0.06640922
+7Networks_LH_Default_pCunPCC_10,Default mode,-0.5200346,0.032100122
+7Networks_LH_Default_pCunPCC_11,Default mode,-0.4334433,0.084315345
+7Networks_RH_Vis_1,Visual,0.26794901,0.08520367
+7Networks_RH_Vis_2,Visual,-0.02381802,0.050214916
+7Networks_RH_Vis_3,Visual,0.18211746,0.060572598
+7Networks_RH_Vis_4,Visual,0.12071304,0.012525926
+7Networks_RH_Vis_5,Visual,-0.3241585,0.079972066
+7Networks_RH_Vis_6,Visual,-0.28018898,0.02563767
+7Networks_RH_Vis_7,Visual,-0.2733128,0.042168487
+7Networks_RH_Vis_8,Visual,-0.20799506,0.026785802
+7Networks_RH_Vis_9,Visual,0.08269818,0.0072714966
+7Networks_RH_Vis_10,Visual,0.34913936,0.01465385
+7Networks_RH_Vis_11,Visual,-0.471751,0.02488015
+7Networks_RH_Vis_12,Visual,-0.583342,0.08526862
+7Networks_RH_Vis_13,Visual,0.18460003,0.009837036
+7Networks_RH_Vis_14,Visual,-0.7346436,0.08024824
+7Networks_RH_Vis_15,Visual,-0.25963965,0.01214261
+7Networks_RH_Vis_16,Visual,0.07165384,0.019749444
+7Networks_RH_Vis_17,Visual,-0.6869278,0.09285922
+7Networks_RH_Vis_18,Visual,-0.06544925,-0.011877302
+7Networks_RH_Vis_19,Visual,-0.63273203,0.06425574
+7Networks_RH_Vis_20,Visual,-0.7308103,0.098644495
+7Networks_RH_Vis_21,Visual,0.14968589,-0.021596262
+7Networks_RH_Vis_22,Visual,-0.2242311,0.024559846
+7Networks_RH_Vis_23,Visual,-0.1515666,0.03293335
+7Networks_RH_Vis_24,Visual,-0.6871666,0.07627955
+7Networks_RH_Vis_25,Visual,-0.49007162,0.04383902
+7Networks_RH_Vis_26,Visual,-0.32618463,0.012855014
+7Networks_RH_Vis_27,Visual,-0.4356719,0.030439794
+7Networks_RH_Vis_28,Visual,-0.48227957,0.03518791
+7Networks_RH_Vis_29,Visual,-0.33186445,0.019599982
+7Networks_RH_Vis_30,Visual,-0.45616013,-0.013932173
+7Networks_RH_SomMot_1,Somatomotor,-0.18585694,0.06161121
+7Networks_RH_SomMot_2,Somatomotor,-0.22891498,0.031645253
+7Networks_RH_SomMot_3,Somatomotor,-0.020837048,0.046631917
+7Networks_RH_SomMot_4,Somatomotor,0.09509524,0.050762855
+7Networks_RH_SomMot_5,Somatomotor,0.18904483,0.062301144
+7Networks_RH_SomMot_6,Somatomotor,-0.08351405,0.030209925
+7Networks_RH_SomMot_7,Somatomotor,-0.32210448,-0.016706442
+7Networks_RH_SomMot_8,Somatomotor,0.07401781,-0.01891891
+7Networks_RH_SomMot_9,Somatomotor,-0.1377675,0.04440234
+7Networks_RH_SomMot_10,Somatomotor,-0.19198038,0.014384591
+7Networks_RH_SomMot_11,Somatomotor,-0.065475635,0.0364786
+7Networks_RH_SomMot_12,Somatomotor,-0.07689146,-0.0016008804
+7Networks_RH_SomMot_13,Somatomotor,-0.23084831,0.01423614
+7Networks_RH_SomMot_14,Somatomotor,-0.22202681,0.003590884
+7Networks_RH_SomMot_15,Somatomotor,0.07471098,-0.023758985
+7Networks_RH_SomMot_16,Somatomotor,-0.26298702,-0.01704094
+7Networks_RH_SomMot_17,Somatomotor,-0.22312558,-0.031978536
+7Networks_RH_SomMot_18,Somatomotor,-0.14673015,-0.03130277
+7Networks_RH_SomMot_19,Somatomotor,-0.3174444,-0.021871485
+7Networks_RH_SomMot_20,Somatomotor,-0.50205404,0.048584044
+7Networks_RH_SomMot_21,Somatomotor,-0.13756704,-0.008635229
+7Networks_RH_SomMot_22,Somatomotor,-0.31003046,-0.03510871
+7Networks_RH_SomMot_23,Somatomotor,-0.22451162,-0.03589503
+7Networks_RH_SomMot_24,Somatomotor,-0.5188463,-0.0483101
+7Networks_RH_SomMot_25,Somatomotor,-0.29858944,-0.010636662
+7Networks_RH_SomMot_26,Somatomotor,-0.1780656,-0.037576307
+7Networks_RH_SomMot_27,Somatomotor,-0.16789487,-0.015137861
+7Networks_RH_SomMot_28,Somatomotor,-0.29462332,-0.0306939
+7Networks_RH_SomMot_29,Somatomotor,-0.17921272,-0.010090409
+7Networks_RH_SomMot_30,Somatomotor,-0.40387782,0.019930273
+7Networks_RH_SomMot_31,Somatomotor,-0.22754411,-0.052835397
+7Networks_RH_SomMot_32,Somatomotor,-0.36928272,0.010226672
+7Networks_RH_SomMot_33,Somatomotor,-0.21300936,0.0058721025
+7Networks_RH_SomMot_34,Somatomotor,-0.05201526,0.0049736695
+7Networks_RH_SomMot_35,Somatomotor,-0.19364223,0.0061925617
+7Networks_RH_SomMot_36,Somatomotor,-0.13240245,-0.023131713
+7Networks_RH_SomMot_37,Somatomotor,-0.35859197,0.0037700064
+7Networks_RH_SomMot_38,Somatomotor,-0.07287043,-0.005290141
+7Networks_RH_SomMot_39,Somatomotor,0.06552433,0.002453866
+7Networks_RH_SomMot_40,Somatomotor,-0.048389442,0.011422704
+7Networks_RH_DorsAttn_Post_1,Dorsal attention,0.28213274,0.0783616
+7Networks_RH_DorsAttn_Post_2,Dorsal attention,0.14290594,0.021510702
+7Networks_RH_DorsAttn_Post_3,Dorsal attention,-0.08965254,0.029915597
+7Networks_RH_DorsAttn_Post_4,Dorsal attention,-0.24652302,0.06457659
+7Networks_RH_DorsAttn_Post_5,Dorsal attention,-0.6099999,-0.03004844
+7Networks_RH_DorsAttn_Post_6,Dorsal attention,-0.31326333,-0.036566455
+7Networks_RH_DorsAttn_Post_7,Dorsal attention,-0.2389028,-0.004924568
+7Networks_RH_DorsAttn_Post_8,Dorsal attention,-0.27149385,-0.07652971
+7Networks_RH_DorsAttn_Post_9,Dorsal attention,-0.31289238,-0.060594205
+7Networks_RH_DorsAttn_Post_10,Dorsal attention,-0.33083212,-0.07939203
+7Networks_RH_DorsAttn_Post_11,Dorsal attention,-0.56401944,-0.09498366
+7Networks_RH_DorsAttn_Post_12,Dorsal attention,-0.34892875,-0.069547236
+7Networks_RH_DorsAttn_Post_13,Dorsal attention,-0.51970315,-0.052882683
+7Networks_RH_DorsAttn_Post_14,Dorsal attention,-0.54841936,-0.11621927
+7Networks_RH_DorsAttn_Post_15,Dorsal attention,-0.64352083,-0.0325719
+7Networks_RH_DorsAttn_Post_16,Dorsal attention,-0.34892374,-0.073999345
+7Networks_RH_DorsAttn_Post_17,Dorsal attention,-0.5996684,-0.023942303
+7Networks_RH_DorsAttn_Post_18,Dorsal attention,-0.46494544,-0.034428798
+7Networks_RH_DorsAttn_Post_19,Dorsal attention,-0.44759485,-0.02254766
+7Networks_RH_DorsAttn_FEF_1,Dorsal attention,-0.14095931,-0.10983248
+7Networks_RH_DorsAttn_FEF_2,Dorsal attention,-0.47464025,-0.088146456
+7Networks_RH_DorsAttn_FEF_3,Dorsal attention,-0.20721197,-0.05770402
+7Networks_RH_DorsAttn_PrCv_1,Dorsal attention,-0.0049772444,-0.059142746
+7Networks_RH_SalVentAttn_TempOccPar_1,Salience/ventral attention,0.34523222,0.010770941
+7Networks_RH_SalVentAttn_TempOccPar_2,Salience/ventral attention,0.07974945,0.004643716
+7Networks_RH_SalVentAttn_TempOccPar_3,Salience/ventral attention,-0.069783315,-0.02451065
+7Networks_RH_SalVentAttn_TempOccPar_4,Salience/ventral attention,-0.3032657,-0.03079768
+7Networks_RH_SalVentAttn_TempOccPar_5,Salience/ventral attention,-0.20825231,-0.025816057
+7Networks_RH_SalVentAttn_TempOccPar_6,Salience/ventral attention,-0.043758187,-0.03957375
+7Networks_RH_SalVentAttn_TempOccPar_7,Salience/ventral attention,-0.39043042,-0.027562331
+7Networks_RH_SalVentAttn_PrC_1,Salience/ventral attention,0.0790723,-0.06898337
+7Networks_RH_SalVentAttn_FrOperIns_1,Salience/ventral attention,0.3580766,0.13094735
+7Networks_RH_SalVentAttn_FrOperIns_2,Salience/ventral attention,-0.111982405,0.012558301
+7Networks_RH_SalVentAttn_FrOperIns_3,Salience/ventral attention,0.20163386,0.07613105
+7Networks_RH_SalVentAttn_FrOperIns_4,Salience/ventral attention,-0.13137776,0.043462507
+7Networks_RH_SalVentAttn_FrOperIns_5,Salience/ventral attention,-0.32036117,-0.016207378
+7Networks_RH_SalVentAttn_FrOperIns_6,Salience/ventral attention,-0.108540505,-0.0048602433
+7Networks_RH_SalVentAttn_FrOperIns_7,Salience/ventral attention,-0.28608236,0.0062653497
+7Networks_RH_SalVentAttn_FrOperIns_8,Salience/ventral attention,-0.14744131,-0.05207928
+7Networks_RH_SalVentAttn_PFCl_1,Salience/ventral attention,-0.5463539,-0.021633
+7Networks_RH_SalVentAttn_Med_1,Salience/ventral attention,-0.45834392,-0.07297015
+7Networks_RH_SalVentAttn_Med_2,Salience/ventral attention,-0.503391,-0.076731846
+7Networks_RH_SalVentAttn_Med_3,Salience/ventral attention,-0.55250937,0.052403193
+7Networks_RH_SalVentAttn_Med_4,Salience/ventral attention,-0.25805932,-0.09861122
+7Networks_RH_SalVentAttn_Med_5,Salience/ventral attention,-0.5534544,0.022644479
+7Networks_RH_SalVentAttn_Med_6,Salience/ventral attention,-0.45375854,0.03431722
+7Networks_RH_SalVentAttn_Med_7,Salience/ventral attention,-0.14341784,-0.08351167
+7Networks_RH_SalVentAttn_Med_8,Salience/ventral attention,-0.112746984,-0.017538562
+7Networks_RH_Limbic_OFC_1,Limbic,0.16860113,0.09166392
+7Networks_RH_Limbic_OFC_2,Limbic,0.18647733,0.12422641
+7Networks_RH_Limbic_OFC_3,Limbic,0.3700741,0.09830987
+7Networks_RH_Limbic_OFC_4,Limbic,0.0891981,0.0722688
+7Networks_RH_Limbic_OFC_5,Limbic,0.41423017,0.11380896
+7Networks_RH_Limbic_OFC_6,Limbic,0.20474535,0.07592992
+7Networks_RH_Limbic_TempPole_1,Limbic,0.5375663,0.052326135
+7Networks_RH_Limbic_TempPole_2,Limbic,0.39844832,0.09151765
+7Networks_RH_Limbic_TempPole_3,Limbic,0.6267092,0.110537186
+7Networks_RH_Limbic_TempPole_4,Limbic,0.31448555,0.05196964
+7Networks_RH_Limbic_TempPole_5,Limbic,0.58381724,0.12539649
+7Networks_RH_Limbic_TempPole_6,Limbic,0.22711235,0.058408543
+7Networks_RH_Limbic_TempPole_7,Limbic,-0.13664547,0.011311974
+7Networks_RH_Cont_Par_1,Frontoparietal control,0.019713009,-0.016757166
+7Networks_RH_Cont_Par_2,Frontoparietal control,-0.27889562,-0.0466944
+7Networks_RH_Cont_Par_3,Frontoparietal control,-0.28868055,-0.042038772
+7Networks_RH_Cont_Par_4,Frontoparietal control,-0.118302114,-0.069556914
+7Networks_RH_Cont_Par_5,Frontoparietal control,-0.21208575,-0.07005419
+7Networks_RH_Cont_Par_6,Frontoparietal control,-0.47710195,-0.086213626
+7Networks_RH_Cont_Temp_1,Frontoparietal control,0.22189099,0.0719467
+7Networks_RH_Cont_Temp_2,Frontoparietal control,0.25027084,0.051765803
+7Networks_RH_Cont_PFCv_1,Frontoparietal control,-0.11756588,0.04742014
+7Networks_RH_Cont_PFCl_1,Frontoparietal control,-0.07173853,0.05259422
+7Networks_RH_Cont_PFCl_2,Frontoparietal control,0.040920004,0.03966243
+7Networks_RH_Cont_PFCl_3,Frontoparietal control,-0.41971958,0.036531802
+7Networks_RH_Cont_PFCl_4,Frontoparietal control,0.21139516,0.030886816
+7Networks_RH_Cont_PFCl_5,Frontoparietal control,-0.43201724,-0.021708412
+7Networks_RH_Cont_PFCl_6,Frontoparietal control,0.031110762,0.0030445585
+7Networks_RH_Cont_PFCl_7,Frontoparietal control,-0.07125017,-0.048215073
+7Networks_RH_Cont_PFCl_8,Frontoparietal control,-0.40180618,0.022107337
+7Networks_RH_Cont_PFCl_9,Frontoparietal control,-0.1675248,-0.028364595
+7Networks_RH_Cont_PFCl_10,Frontoparietal control,-0.3349961,-0.041336007
+7Networks_RH_Cont_PFCl_11,Frontoparietal control,-0.3631735,-0.008766421
+7Networks_RH_Cont_PFCl_12,Frontoparietal control,-0.2890598,-0.039176565
+7Networks_RH_Cont_PFCl_13,Frontoparietal control,-0.07679365,-0.06890542
+7Networks_RH_Cont_PFCl_14,Frontoparietal control,-0.28673947,-0.03632462
+7Networks_RH_Cont_PFCl_15,Frontoparietal control,-0.37607807,-0.042274546
+7Networks_RH_Cont_pCun_1,Frontoparietal control,-0.402875,-0.00018497906
+7Networks_RH_Cont_pCun_2,Frontoparietal control,-0.47900474,0.024885554
+7Networks_RH_Cont_Cing_1,Frontoparietal control,-0.5907283,0.05936484
+7Networks_RH_Cont_Cing_2,Frontoparietal control,-0.5686246,0.022955138
+7Networks_RH_Cont_PFCmp_1,Frontoparietal control,-0.4721044,0.03660047
+7Networks_RH_Cont_PFCmp_2,Frontoparietal control,-0.25464052,-0.042543437
+7Networks_RH_Default_Par_1,Default mode,-0.43313763,0.0062567494
+7Networks_RH_Default_Par_2,Default mode,-0.28580382,0.081986666
+7Networks_RH_Default_Par_3,Default mode,-0.3952653,0.062182248
+7Networks_RH_Default_Par_4,Default mode,-0.28588903,-0.013243249
+7Networks_RH_Default_Par_5,Default mode,-0.18210754,0.025926474
+7Networks_RH_Default_Temp_1,Default mode,0.45605212,0.16100545
+7Networks_RH_Default_Temp_2,Default mode,0.14044209,0.16149636
+7Networks_RH_Default_Temp_3,Default mode,0.41305676,0.09597988
+7Networks_RH_Default_Temp_4,Default mode,0.16817416,0.16142179
+7Networks_RH_Default_Temp_5,Default mode,-0.028608589,0.058131926
+7Networks_RH_Default_Temp_6,Default mode,0.054114614,0.02575603
+7Networks_RH_Default_Temp_7,Default mode,0.14730649,0.026928507
+7Networks_RH_Default_Temp_8,Default mode,-0.03812844,0.0020389522
+7Networks_RH_Default_PFCv_1,Default mode,0.11567213,0.10691744
+7Networks_RH_Default_PFCv_2,Default mode,0.06369576,0.10063804
+7Networks_RH_Default_PFCv_3,Default mode,0.043499462,0.019177776
+7Networks_RH_Default_PFCv_4,Default mode,0.16023251,-0.009430095
+7Networks_RH_Default_PFCdPFCm_1,Default mode,0.16963494,0.18980326
+7Networks_RH_Default_PFCdPFCm_2,Default mode,-0.045533516,0.08045411
+7Networks_RH_Default_PFCdPFCm_3,Default mode,-0.49115682,0.13901655
+7Networks_RH_Default_PFCdPFCm_4,Default mode,-0.3367837,0.14303774
+7Networks_RH_Default_PFCdPFCm_5,Default mode,0.04841191,0.052574366
+7Networks_RH_Default_PFCdPFCm_6,Default mode,-0.48925388,0.037441533
+7Networks_RH_Default_PFCdPFCm_7,Default mode,0.038308978,0.07950183
+7Networks_RH_Default_PFCdPFCm_8,Default mode,0.08204889,0.061468035
+7Networks_RH_Default_PFCdPFCm_9,Default mode,-0.09860332,0.065164566
+7Networks_RH_Default_PFCdPFCm_10,Default mode,-0.4838805,0.04729299
+7Networks_RH_Default_PFCdPFCm_11,Default mode,0.031126816,0.042338416
+7Networks_RH_Default_PFCdPFCm_12,Default mode,-0.31285286,0.04324889
+7Networks_RH_Default_PFCdPFCm_13,Default mode,0.12315757,-0.005428217
+7Networks_RH_Default_pCunPCC_1,Default mode,-0.7190093,0.15286112
+7Networks_RH_Default_pCunPCC_2,Default mode,-0.5397933,0.09454444
+7Networks_RH_Default_pCunPCC_3,Default mode,-0.6028074,0.06857367
+7Networks_RH_Default_pCunPCC_4,Default mode,-0.2970217,0.1608894
+7Networks_RH_Default_pCunPCC_5,Default mode,-0.26599693,0.10439078
+7Networks_RH_Default_pCunPCC_6,Default mode,-0.37043676,0.09860495
+7Networks_RH_Default_pCunPCC_7,Default mode,-0.59541047,0.07705542
+7Networks_RH_Default_pCunPCC_8,Default mode,-0.49138775,0.08218277
+7Networks_RH_Default_pCunPCC_9,Default mode,-0.45101646,0.050582215

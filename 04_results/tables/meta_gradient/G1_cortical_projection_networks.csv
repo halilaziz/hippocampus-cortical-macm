@@ -1,0 +1,8 @@
+network,mean_r,pct_parcels_r_pos,pct_parcels_r_neg,mean_specific
+Default mode,-0.171,4.396,34.066,0.074
+Dorsal attention,-0.31,0.0,56.522,-0.049
+Frontoparietal control,-0.265,0.0,48.077,-0.009
+Limbic,0.284,53.846,0.0,0.084
+Salience/ventral attention,-0.252,4.255,48.936,-0.01
+Somatomotor,-0.235,0.0,35.065,-0.011
+Visual,-0.284,1.639,55.738,0.031

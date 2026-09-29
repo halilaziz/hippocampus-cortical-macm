@@ -1,0 +1,26 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-28.0,-18.0,-18.0,19.868574142456055,36592,L Hippocampus,
+1a,-22.0,-42.0,2.0,7.259631633758545,,L Hippocampus,
+1b,-28.0,6.0,-30.0,4.917134761810303,,L Temporal Pole,Limbic
+1c,-62.0,-12.0,-16.0,4.726101398468018,,"L Middle Temporal Gyrus, posterior division",Default mode
+2,24.0,-16.0,-16.0,11.271815299987793,23504,R Hippocampus,
+2a,18.0,-32.0,-12.0,6.4680914878845215,,"R Parahippocampal Gyrus, posterior division",Visual
+2b,28.0,4.0,-22.0,5.325911521911621,,R Amygdala (nearest),
+2c,28.0,-36.0,0.0,4.546772003173828,,R Hippocampus,
+3,-2.0,52.0,-4.0,5.31675910949707,4328,L Paracingulate Gyrus,Default mode
+3a,-2.0,40.0,-8.0,4.737043857574463,,L Paracingulate Gyrus,Default mode
+3b,2.0,50.0,4.0,4.655184268951416,,R Paracingulate Gyrus,
+3c,6.0,46.0,-16.0,4.404125213623047,,R Frontal Medial Cortex,Default mode
+4,-12.0,-50.0,20.0,5.215729713439941,5088,L Precuneous Cortex (nearest),
+4a,16.0,-48.0,0.0,4.669582366943359,,R Lingual Gyrus,Visual
+4b,2.0,-46.0,20.0,4.555727958679199,,"R Cingulate Gyrus, posterior division",Default mode
+4c,-6.0,-40.0,28.0,4.5145745277404785,,"L Cingulate Gyrus, posterior division (nearest)",Default mode
+5,-46.0,-60.0,28.0,4.943036079406738,680,L Angular Gyrus,Default mode
+6,52.0,-2.0,-20.0,4.924780368804932,1592,"R Superior Temporal Gyrus, anterior division",Default mode
+6a,44.0,0.0,-6.0,4.205402851104736,,R Insular Cortex,Salience/ventral attention
+6b,58.0,-6.0,-16.0,4.139463424682617,,"R Middle Temporal Gyrus, anterior division",Default mode
+6c,48.0,4.0,-24.0,3.979919195175171,,R Temporal Pole (nearest),Default mode
+7,-12.0,56.0,18.0,4.71521520614624,536,L Frontal Pole (nearest),
+7a,0.0,50.0,18.0,3.871950149536133,,R Paracingulate Gyrus,
+8,26.0,30.0,48.0,4.596588611602783,368,R Middle Frontal Gyrus,Default mode
+9,-6.0,48.0,24.0,4.093396186828613,128,L Paracingulate Gyrus,Default mode

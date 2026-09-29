@@ -1,0 +1,20 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-26.0,-14.0,-20.0,18.724933624267578,32424,L Hippocampus,
+1a,-50.0,4.0,-26.0,5.241424083709717,,L Temporal Pole,Default mode
+1b,-40.0,-38.0,-12.0,5.013576507568359,,"L Temporal Fusiform Cortex, posterior division (nearest)",
+1c,-40.0,4.0,-20.0,4.927827835083008,,L Temporal Pole,Salience/ventral attention
+2,26.0,-14.0,-20.0,18.49741554260254,37752,R Hippocampus,
+2a,28.0,4.0,-22.0,6.5229997634887695,,R Amygdala (nearest),
+2b,44.0,0.0,-36.0,5.046036243438721,,"R Inferior Temporal Gyrus, anterior division",Default mode
+2c,48.0,-4.0,-18.0,5.006288051605225,,"R Superior Temporal Gyrus, anterior division (nearest)",Default mode
+3,-6.0,32.0,-16.0,4.976079940795898,3000,L Frontal Medial Cortex,Default mode
+3a,4.0,40.0,-14.0,4.752254486083984,,R Frontal Medial Cortex,Default mode
+3b,-6.0,28.0,-16.0,4.480595111846924,,L Subcallosal Cortex,Default mode
+3c,-2.0,40.0,-8.0,4.479291915893555,,L Paracingulate Gyrus,Default mode
+4,-30.0,42.0,-12.0,4.583492279052734,296,L Frontal Pole,Frontoparietal control
+5,-6.0,58.0,-2.0,4.5429158210754395,696,L Frontal Pole,Default mode
+6,-32.0,28.0,-18.0,4.502377986907959,296,L Frontal Orbital Cortex,Default mode
+7,-54.0,-16.0,-14.0,4.379225730895996,96,"L Middle Temporal Gyrus, posterior division",Default mode
+8,-22.0,32.0,46.0,4.379225730895996,376,L Superior Frontal Gyrus,Default mode
+9,-32.0,12.0,-32.0,3.948431968688965,120,L Temporal Pole,Limbic
+10,-6.0,56.0,6.0,3.9088985919952393,120,L Paracingulate Gyrus,Default mode

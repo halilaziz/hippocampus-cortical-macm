@@ -1,0 +1,10 @@
+Cluster ID,X,Y,Z,Z-score,Cluster Size (mm3),Region (Harvard-Oxford),Yeo-7 network
+1,-58.0,-6.0,-16.0,3.890591859817505,744,"L Middle Temporal Gyrus, anterior division",Default mode
+2,-42.0,28.0,-14.0,3.890591859817505,1016,L Frontal Orbital Cortex,Default mode
+3,-24.0,-8.0,-16.0,3.890591859817505,10856,L Amygdala,
+3a,-36.0,-36.0,-20.0,3.431614398956299,,"L Temporal Fusiform Cortex, posterior division",Visual
+4,-8.0,60.0,16.0,3.890591859817505,208,L Frontal Pole,Default mode
+5,2.0,36.0,-14.0,3.890591859817505,200,R Frontal Medial Cortex,Default mode
+6,28.0,-8.0,-16.0,3.890591859817505,11064,R Amygdala,
+7,52.0,-2.0,-20.0,3.890591859817505,432,"R Superior Temporal Gyrus, anterior division",Default mode
+8,58.0,-14.0,-18.0,3.890591859817505,296,"R Middle Temporal Gyrus, posterior division",Default mode
