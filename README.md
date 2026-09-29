@@ -1,5 +1,7 @@
 # Specific cortical partners and long-axis gradient of the hippocampus
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23041560.svg)](https://doi.org/10.5281/zenodo.23041560)
+
 Code, derived data and statistical maps for:
 
 > Velioglu HA. *Specific cortical partners and long-axis gradient of the hippocampus.* (manuscript submitted).
@@ -53,4 +55,4 @@ Code: MIT License (see `LICENSE`). Derived data, maps and tables: CC BY 4.0. Neu
 
 ## Citation
 
-Please cite the article (see `CITATION.cff`) and the underlying resources: Neurosynth (Yarkoni et al. 2011), NeuroQuery (Dockès et al. 2020), NiMARE (Salo et al. 2023) and GingerALE (Eickhoff et al. 2009, 2012; Turkeltaub et al. 2012).
+Please cite the article and the archived code and data (Zenodo, v1.0.0: https://doi.org/10.5281/zenodo.23041561; all versions: https://doi.org/10.5281/zenodo.23041560; see `CITATION.cff`) and the underlying resources: Neurosynth (Yarkoni et al. 2011), NeuroQuery (Dockès et al. 2020), NiMARE (Salo et al. 2023) and GingerALE (Eickhoff et al. 2009, 2012; Turkeltaub et al. 2012).

@@ -5,6 +5,7 @@ authors:
   - family-names: Velioglu
     given-names: Halil Aziz
     affiliation: Istanbul Medipol University
+doi: 10.5281/zenodo.23041560
 repository-code: "https://github.com/halilaziz/hippocampus-cortical-macm"
 license: MIT
 date-released: 2026-09-29
